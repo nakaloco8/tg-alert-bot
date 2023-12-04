@@ -5,3 +5,4 @@
 2023-11-26 lint
 2023-11-27 cleanup dead code
 2023-11-30 refactor parser
+2023-12-04 small perf pass
