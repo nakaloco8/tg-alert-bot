@@ -3,3 +3,4 @@
 2023-11-11 backoff on failure
 2023-11-26 fix timezone bug
 2023-11-30 split the fetcher out
+2023-12-06 handle empty response
