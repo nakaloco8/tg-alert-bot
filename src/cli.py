@@ -2,3 +2,4 @@
 2023-11-09 add cli flag
 2023-11-23 docs
 2023-11-26 reduce noise
+2023-12-13 readme
