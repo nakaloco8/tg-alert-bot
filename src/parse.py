@@ -7,3 +7,4 @@
 2023-12-14 add cli flag
 2023-12-23 cache the lookups
 2023-12-24 wire up queue
+2023-12-24 dockerfile
