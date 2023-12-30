@@ -8,3 +8,4 @@
 2023-12-23 cache the lookups
 2023-12-24 wire up queue
 2023-12-24 dockerfile
+2023-12-30 bump deps
