@@ -5,3 +5,4 @@
 2023-12-13 readme
 2023-12-24 add tests
 2024-01-04 docs
+2024-01-04 hotfix
