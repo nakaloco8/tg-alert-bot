@@ -15,3 +15,4 @@
 2024-01-04 lint
 2024-01-04 typeshed
 2024-01-04 metrics
+2024-01-05 handle empty response
