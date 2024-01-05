@@ -12,3 +12,4 @@
 2024-01-04 bump deps
 2024-01-05 hotfix
 2024-01-05 reduce noise
+2024-01-05 revert
