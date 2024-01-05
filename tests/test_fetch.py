@@ -8,3 +8,4 @@
 2024-01-02 drop unused import
 2024-01-02 split the fetcher out
 2024-01-04 typo
+2024-01-05 refactor parser
