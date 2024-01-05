@@ -6,3 +6,4 @@
 2023-12-13 refactor parser
 2023-12-30 drop unused import
 2024-01-02 fix timezone bug
+2024-01-05 cache the lookups
