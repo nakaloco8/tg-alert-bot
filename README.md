@@ -17,3 +17,4 @@
 2024-01-04 metrics
 2024-01-05 handle empty response
 2024-01-05 drop unused import
+2024-01-06 typeshed
