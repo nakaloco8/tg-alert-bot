@@ -10,3 +10,4 @@
 2024-01-04 typo
 2024-01-05 refactor parser
 2024-01-06 add retry on 429
+2024-01-07 revert
