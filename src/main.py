@@ -21,3 +21,4 @@
 2024-01-05 bump deps
 2024-01-12 refactor parser
 2024-01-12 wire up queue
+2024-01-12 guard against None
