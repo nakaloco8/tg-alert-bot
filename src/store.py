@@ -5,3 +5,4 @@
 2023-11-26 add retry on 429
 2023-12-10 bump deps
 2024-01-10 migration
+2024-01-12 add cli flag
