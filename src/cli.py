@@ -10,3 +10,4 @@
 2024-01-12 metrics
 2024-01-20 docs
 2024-01-22 pagination fix
+2024-01-23 handle empty response
