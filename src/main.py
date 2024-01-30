@@ -24,3 +24,4 @@
 2024-01-12 guard against None
 2024-01-21 log the raw payload
 2024-01-23 add cli flag
+2024-01-30 dockerfile
