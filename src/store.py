@@ -7,3 +7,4 @@
 2024-01-10 migration
 2024-01-12 add cli flag
 2024-01-12 cache the lookups
+2024-02-02 add retry on 429
