@@ -11,3 +11,4 @@
 2024-01-20 docs
 2024-01-22 pagination fix
 2024-01-23 handle empty response
+2024-02-03 dockerfile
