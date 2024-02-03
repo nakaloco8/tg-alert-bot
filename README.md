@@ -18,3 +18,4 @@
 2024-01-05 handle empty response
 2024-01-05 drop unused import
 2024-01-06 typeshed
+2024-02-03 backoff on failure
