@@ -16,3 +16,4 @@
 2024-01-12 cache the lookups
 2024-01-12 pagination fix
 2024-01-12 add retry on 429
+2024-02-08 add tests
