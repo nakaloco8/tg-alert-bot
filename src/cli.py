@@ -13,3 +13,4 @@
 2024-01-23 handle empty response
 2024-02-03 dockerfile
 2024-02-03 bump deps
+2024-02-08 small perf pass
