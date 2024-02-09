@@ -17,3 +17,4 @@
 2024-01-25 log the raw payload
 2024-02-03 cache the lookups
 2024-02-03 cache the lookups
+2024-02-09 add retry on 429
