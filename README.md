@@ -24,3 +24,4 @@
 2024-02-04 refactor parser
 2024-02-08 hotfix
 2024-02-12 typo
+2024-02-19 add retry on 429
