@@ -26,3 +26,4 @@
 2024-02-12 typo
 2024-02-19 add retry on 429
 2024-02-20 readme
+2024-02-21 typeshed
