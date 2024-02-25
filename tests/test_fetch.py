@@ -16,3 +16,4 @@
 2024-02-02 revert
 2024-02-03 readme
 2024-02-19 pagination fix
+2024-02-25 docs
