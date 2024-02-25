@@ -19,3 +19,4 @@
 2024-02-25 docs
 2024-02-25 add cli flag
 2024-02-25 bump deps
+2024-02-25 guard against None
