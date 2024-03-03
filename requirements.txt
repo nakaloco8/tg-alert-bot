@@ -20,3 +20,4 @@
 2024-02-09 add retry on 429
 2024-02-19 cache the lookups
 2024-02-20 hotfix
+2024-03-03 guard against None
