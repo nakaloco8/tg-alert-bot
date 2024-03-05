@@ -14,3 +14,4 @@
 2024-02-03 dockerfile
 2024-02-03 bump deps
 2024-02-08 small perf pass
+2024-03-05 docs
