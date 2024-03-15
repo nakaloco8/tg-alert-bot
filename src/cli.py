@@ -19,3 +19,4 @@
 2024-03-12 wip 2
 2024-03-15 bump deps
 2024-03-15 move config to env
+2024-03-15 docs
