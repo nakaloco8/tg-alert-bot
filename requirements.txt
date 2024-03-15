@@ -22,3 +22,4 @@
 2024-02-20 hotfix
 2024-03-03 guard against None
 2024-03-05 wip
+2024-03-15 bump deps
