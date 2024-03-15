@@ -17,3 +17,4 @@
 2024-03-05 docs
 2024-03-12 pagination fix
 2024-03-12 wip 2
+2024-03-15 bump deps
