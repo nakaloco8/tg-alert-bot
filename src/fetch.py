@@ -19,3 +19,4 @@
 2024-03-17 small perf pass
 2024-03-18 wip 2
 2024-04-17 typeshed
+2024-04-17 handle empty response
