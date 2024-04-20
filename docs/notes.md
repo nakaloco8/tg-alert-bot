@@ -22,3 +22,4 @@
 2024-04-17 move config to env
 2024-04-19 reduce noise
 2024-04-19 bump deps
+2024-04-20 small perf pass
