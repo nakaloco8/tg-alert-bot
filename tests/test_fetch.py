@@ -26,3 +26,4 @@
 2024-03-18 fix timezone bug
 2024-04-19 add cli flag
 2024-04-19 lint
+2024-04-20 readme
