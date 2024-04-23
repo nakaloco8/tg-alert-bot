@@ -36,3 +36,4 @@
 2024-03-18 split the fetcher out
 2024-04-17 hotfix
 2024-04-20 bump deps
+2024-04-23 wire up queue
