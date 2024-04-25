@@ -22,3 +22,4 @@
 2024-03-19 add tests
 2024-03-26 add tests
 2024-04-19 migration
+2024-04-25 guard against None
