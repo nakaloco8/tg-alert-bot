@@ -22,3 +22,4 @@
 2024-04-17 handle empty response
 2024-04-19 metrics
 2024-04-19 typo
+2024-04-30 backoff on failure
