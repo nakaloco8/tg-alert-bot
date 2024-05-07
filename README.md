@@ -43,3 +43,4 @@
 2024-04-17 add cli flag
 2024-04-18 cleanup dead code
 2024-05-02 typeshed
+2024-05-07 guard against None
