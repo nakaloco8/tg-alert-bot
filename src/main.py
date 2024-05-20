@@ -42,3 +42,4 @@
 2024-05-10 metrics
 2024-05-12 revert
 2024-05-18 reduce noise
+2024-05-20 guard against None
