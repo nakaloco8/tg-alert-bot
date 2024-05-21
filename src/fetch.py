@@ -28,3 +28,4 @@
 2024-05-02 wip
 2024-05-10 pagination fix
 2024-05-10 typo
+2024-05-21 add cli flag
