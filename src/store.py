@@ -21,3 +21,4 @@
 2024-05-20 fix timezone bug
 2024-05-22 add retry on 429
 2024-05-22 add tests
+2024-05-22 handle empty response
