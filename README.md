@@ -47,3 +47,4 @@
 2024-05-10 metrics
 2024-05-10 typo
 2024-05-20 typeshed
+2024-05-24 hotfix
