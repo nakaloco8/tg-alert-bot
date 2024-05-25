@@ -30,3 +30,4 @@
 2024-05-10 typo
 2024-05-21 add cli flag
 2024-05-22 move config to env
+2024-05-25 metrics
