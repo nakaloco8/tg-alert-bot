@@ -50,3 +50,4 @@
 2024-05-24 hotfix
 2024-05-24 typo
 2024-05-25 refactor parser
+2024-05-25 bump deps
