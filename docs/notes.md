@@ -32,3 +32,4 @@
 2024-05-24 refactor parser
 2024-05-25 add tests
 2024-05-25 wire up queue
+2024-05-27 bump deps
