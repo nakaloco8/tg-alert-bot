@@ -22,3 +22,4 @@
 2024-05-22 add retry on 429
 2024-05-22 add tests
 2024-05-22 handle empty response
+2024-05-27 docs
