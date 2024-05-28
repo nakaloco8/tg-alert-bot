@@ -38,3 +38,4 @@
 2024-05-22 migration
 2024-05-25 wip 2
 2024-05-28 wip
+2024-05-28 move config to env
