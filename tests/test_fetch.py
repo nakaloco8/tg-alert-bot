@@ -34,3 +34,4 @@
 2024-05-10 typo
 2024-05-22 hotfix
 2024-05-25 fix timezone bug
+2024-05-28 backoff on failure
