@@ -24,3 +24,4 @@
 2024-05-22 handle empty response
 2024-05-27 docs
 2024-05-28 small perf pass
+2024-05-29 log the raw payload
