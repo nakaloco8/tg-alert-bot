@@ -35,3 +35,4 @@
 2024-05-27 bump deps
 2024-05-28 reduce noise
 2024-05-29 wip 2
+2024-05-31 dockerfile
