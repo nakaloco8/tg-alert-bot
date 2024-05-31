@@ -54,3 +54,4 @@
 2024-05-25 wip 2
 2024-05-25 handle empty response
 2024-05-28 guard against None
+2024-05-31 readme
