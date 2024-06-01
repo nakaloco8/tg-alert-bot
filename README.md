@@ -55,3 +55,4 @@
 2024-05-25 handle empty response
 2024-05-28 guard against None
 2024-05-31 readme
+2024-06-01 guard against None
