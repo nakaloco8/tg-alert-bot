@@ -35,3 +35,4 @@
 2024-06-01 hotfix
 2024-06-01 wire up queue
 2024-06-02 wire up queue
+2024-06-02 add retry on 429
