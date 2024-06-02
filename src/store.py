@@ -26,3 +26,4 @@
 2024-05-28 small perf pass
 2024-05-29 log the raw payload
 2024-06-01 docs
+2024-06-02 readme
