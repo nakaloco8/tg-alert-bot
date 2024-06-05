@@ -56,3 +56,4 @@
 2024-05-28 guard against None
 2024-05-31 readme
 2024-06-01 guard against None
+2024-06-05 split the fetcher out
