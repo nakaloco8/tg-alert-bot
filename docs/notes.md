@@ -39,3 +39,4 @@
 2024-06-02 log the raw payload
 2024-06-05 typeshed
 2024-06-05 reduce noise
+2024-06-05 split the fetcher out
