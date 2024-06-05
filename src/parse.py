@@ -40,3 +40,4 @@
 2024-05-28 wip
 2024-05-28 move config to env
 2024-06-02 wip 2
+2024-06-05 handle empty response
