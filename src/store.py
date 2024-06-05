@@ -27,3 +27,4 @@
 2024-05-29 log the raw payload
 2024-06-01 docs
 2024-06-02 readme
+2024-06-05 refactor parser
