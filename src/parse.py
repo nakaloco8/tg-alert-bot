@@ -42,3 +42,4 @@
 2024-06-02 wip 2
 2024-06-05 handle empty response
 2024-06-05 add retry on 429
+2024-06-08 docs
