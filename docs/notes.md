@@ -40,3 +40,4 @@
 2024-06-05 typeshed
 2024-06-05 reduce noise
 2024-06-05 split the fetcher out
+2024-06-12 backoff on failure
