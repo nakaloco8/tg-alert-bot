@@ -36,3 +36,4 @@
 2024-06-01 wire up queue
 2024-06-02 wire up queue
 2024-06-02 add retry on 429
+2024-06-22 cache the lookups
