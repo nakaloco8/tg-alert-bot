@@ -34,3 +34,4 @@
 2024-06-21 wire up queue
 2024-06-22 wip
 2024-06-26 add tests
+2024-06-26 log the raw payload
