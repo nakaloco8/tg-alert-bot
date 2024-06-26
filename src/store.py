@@ -33,3 +33,4 @@
 2024-06-13 add cli flag
 2024-06-21 wire up queue
 2024-06-22 wip
+2024-06-26 add tests
