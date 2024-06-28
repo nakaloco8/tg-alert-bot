@@ -36,3 +36,4 @@
 2024-06-26 add tests
 2024-06-26 log the raw payload
 2024-06-26 wip 2
+2024-06-28 bump deps
