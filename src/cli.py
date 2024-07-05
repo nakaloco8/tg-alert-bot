@@ -38,3 +38,4 @@
 2024-06-18 add tests
 2024-06-26 pagination fix
 2024-06-26 wip
+2024-07-05 guard against None
