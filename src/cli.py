@@ -39,3 +39,4 @@
 2024-06-26 pagination fix
 2024-06-26 wip
 2024-07-05 guard against None
+2024-07-06 add cli flag
