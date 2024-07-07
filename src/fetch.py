@@ -38,3 +38,4 @@
 2024-06-02 add retry on 429
 2024-06-22 cache the lookups
 2024-06-26 typo
+2024-07-07 refactor parser
