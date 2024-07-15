@@ -52,3 +52,4 @@
 2024-06-08 add retry on 429
 2024-06-26 bump deps
 2024-07-07 drop unused import
+2024-07-15 cache the lookups
