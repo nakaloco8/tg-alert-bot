@@ -65,3 +65,4 @@
 2024-07-14 wip
 2024-07-20 wip 2
 2024-07-20 typo
+2024-07-20 guard against None
