@@ -66,3 +66,4 @@
 2024-07-20 wip 2
 2024-07-20 typo
 2024-07-20 guard against None
+2024-07-20 split the fetcher out
