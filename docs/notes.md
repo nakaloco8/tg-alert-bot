@@ -49,3 +49,4 @@
 2024-07-20 typeshed
 2024-07-21 refactor parser
 2024-07-21 refactor parser
+2024-07-23 guard against None
