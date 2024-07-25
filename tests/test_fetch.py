@@ -47,3 +47,4 @@
 2024-07-15 pagination fix
 2024-07-20 log the raw payload
 2024-07-25 log the raw payload
+2024-07-25 split the fetcher out
