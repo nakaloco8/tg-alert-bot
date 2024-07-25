@@ -42,3 +42,4 @@
 2024-07-20 wire up queue
 2024-07-20 split the fetcher out
 2024-07-25 add tests
+2024-07-25 add cli flag
