@@ -43,3 +43,4 @@
 2024-07-20 split the fetcher out
 2024-07-25 add tests
 2024-07-25 add cli flag
+2024-07-28 cache the lookups
