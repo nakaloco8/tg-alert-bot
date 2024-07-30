@@ -44,3 +44,4 @@
 2024-07-06 cache the lookups
 2024-07-14 move config to env
 2024-07-25 small perf pass
+2024-07-30 lint
