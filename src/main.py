@@ -53,3 +53,4 @@
 2024-06-26 bump deps
 2024-07-07 drop unused import
 2024-07-15 cache the lookups
+2024-07-30 move config to env
