@@ -47,3 +47,4 @@
 2024-07-06 refactor parser
 2024-07-23 reduce noise
 2024-07-25 wip 2
+2024-07-30 log the raw payload
