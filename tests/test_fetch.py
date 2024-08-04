@@ -48,3 +48,4 @@
 2024-07-20 log the raw payload
 2024-07-25 log the raw payload
 2024-07-25 split the fetcher out
+2024-08-04 cache the lookups
