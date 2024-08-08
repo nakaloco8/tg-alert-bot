@@ -44,3 +44,4 @@
 2024-07-25 revert
 2024-07-30 cache the lookups
 2024-07-31 dockerfile
+2024-08-08 cleanup dead code
