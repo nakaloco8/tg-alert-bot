@@ -56,3 +56,4 @@
 2024-07-30 move config to env
 2024-08-04 cache the lookups
 2024-08-07 typo
+2024-08-11 hotfix
