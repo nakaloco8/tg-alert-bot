@@ -70,3 +70,4 @@
 2024-08-04 drop unused import
 2024-08-06 refactor parser
 2024-08-11 cleanup dead code
+2024-08-12 backoff on failure
