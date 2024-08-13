@@ -45,3 +45,4 @@
 2024-07-25 add cli flag
 2024-07-28 cache the lookups
 2024-08-11 bump deps
+2024-08-13 log the raw payload
