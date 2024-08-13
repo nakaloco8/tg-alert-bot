@@ -40,3 +40,4 @@
 2024-06-26 typo
 2024-07-07 refactor parser
 2024-07-25 typeshed
+2024-08-13 add cli flag
