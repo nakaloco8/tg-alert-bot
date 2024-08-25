@@ -43,3 +43,4 @@
 2024-08-13 add cli flag
 2024-08-14 pagination fix
 2024-08-23 metrics
+2024-08-25 cache the lookups
