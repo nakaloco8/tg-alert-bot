@@ -52,3 +52,4 @@
 2024-08-19 guard against None
 2024-08-23 wip
 2024-08-28 move config to env
+2024-08-28 reduce noise
