@@ -55,3 +55,4 @@
 2024-08-11 log the raw payload
 2024-08-14 pagination fix
 2024-08-23 readme
+2024-08-28 backoff on failure
