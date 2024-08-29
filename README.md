@@ -73,3 +73,4 @@
 2024-08-12 backoff on failure
 2024-08-28 refactor parser
 2024-08-28 move config to env
+2024-08-29 guard against None
