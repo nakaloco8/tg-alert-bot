@@ -54,3 +54,4 @@
 2024-08-28 move config to env
 2024-08-28 reduce noise
 2024-08-30 split the fetcher out
+2024-08-30 revert
