@@ -50,3 +50,4 @@
 2024-08-28 typeshed
 2024-09-03 wip
 2024-09-03 add retry on 429
+2024-09-05 move config to env
