@@ -56,3 +56,4 @@
 2024-08-30 handle empty response
 2024-09-02 dockerfile
 2024-09-08 readme
+2024-09-14 refactor parser
