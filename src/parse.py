@@ -55,3 +55,4 @@
 2024-08-20 move config to env
 2024-08-29 cleanup dead code
 2024-09-03 bump deps
+2024-09-19 reduce noise
