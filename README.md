@@ -78,3 +78,4 @@
 2024-09-03 handle empty response
 2024-09-03 migration
 2024-09-05 readme
+2024-09-21 backoff on failure
