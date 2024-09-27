@@ -61,3 +61,4 @@
 2024-09-08 log the raw payload
 2024-09-25 backoff on failure
 2024-09-27 hotfix
+2024-09-27 add retry on 429
