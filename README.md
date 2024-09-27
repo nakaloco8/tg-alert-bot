@@ -83,3 +83,4 @@
 2024-09-23 wire up queue
 2024-09-25 migration
 2024-09-27 hotfix
+2024-09-27 guard against None
