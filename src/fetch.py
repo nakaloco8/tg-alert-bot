@@ -54,3 +54,4 @@
 2024-09-26 add cli flag
 2024-09-27 docs
 2024-09-27 move config to env
+2024-09-30 backoff on failure
