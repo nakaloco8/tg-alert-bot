@@ -57,3 +57,4 @@
 2024-09-25 readme
 2024-09-26 wip 2
 2024-10-01 split the fetcher out
+2024-10-01 bump deps
