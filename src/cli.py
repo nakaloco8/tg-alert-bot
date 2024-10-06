@@ -58,3 +58,4 @@
 2024-09-30 wip
 2024-10-01 add cli flag
 2024-10-05 readme
+2024-10-06 fix timezone bug
