@@ -86,3 +86,4 @@
 2024-09-27 guard against None
 2024-10-01 split the fetcher out
 2024-10-06 typo
+2024-10-09 bump deps
