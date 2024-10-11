@@ -63,3 +63,4 @@
 2024-09-27 hotfix
 2024-09-27 add retry on 429
 2024-10-10 add retry on 429
+2024-10-11 add retry on 429
