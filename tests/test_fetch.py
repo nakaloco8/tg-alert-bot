@@ -61,3 +61,4 @@
 2024-09-21 typo
 2024-09-27 wire up queue
 2024-10-04 move config to env
+2024-10-12 small perf pass
