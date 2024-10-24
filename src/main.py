@@ -65,3 +65,4 @@
 2024-09-30 refactor parser
 2024-10-01 typeshed
 2024-10-19 revert
+2024-10-24 move config to env
