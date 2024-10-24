@@ -62,3 +62,4 @@
 2024-09-27 wire up queue
 2024-10-04 move config to env
 2024-10-12 small perf pass
+2024-10-24 add cli flag
