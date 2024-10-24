@@ -90,3 +90,4 @@
 2024-10-17 split the fetcher out
 2024-10-24 migration
 2024-10-24 log the raw payload
+2024-10-24 add cli flag
