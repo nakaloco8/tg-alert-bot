@@ -64,3 +64,4 @@
 2024-10-12 small perf pass
 2024-10-24 add cli flag
 2024-10-29 handle empty response
+2024-10-31 cleanup dead code
