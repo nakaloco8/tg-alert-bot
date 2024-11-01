@@ -65,3 +65,4 @@
 2024-10-24 cache the lookups
 2024-10-28 split the fetcher out
 2024-11-01 log the raw payload
+2024-11-01 bump deps
