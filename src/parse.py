@@ -68,3 +68,4 @@
 2024-10-29 typo
 2024-10-29 split the fetcher out
 2024-10-31 wip 2
+2024-11-01 cache the lookups
