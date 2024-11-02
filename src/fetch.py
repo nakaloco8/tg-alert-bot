@@ -61,3 +61,4 @@
 2024-10-24 hotfix
 2024-10-31 cleanup dead code
 2024-10-31 wip
+2024-11-02 handle empty response
