@@ -70,3 +70,4 @@
 2024-11-01 add cli flag
 2024-11-02 refactor parser
 2024-11-02 split the fetcher out
+2024-11-02 log the raw payload
