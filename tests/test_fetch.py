@@ -68,3 +68,4 @@
 2024-11-02 refactor parser
 2024-11-02 metrics
 2024-11-04 typo
+2024-11-04 cache the lookups
