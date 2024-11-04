@@ -71,3 +71,4 @@
 2024-11-02 refactor parser
 2024-11-02 split the fetcher out
 2024-11-02 log the raw payload
+2024-11-04 bump deps
