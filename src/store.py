@@ -67,3 +67,4 @@
 2024-11-01 log the raw payload
 2024-11-01 bump deps
 2024-11-02 typo
+2024-11-05 split the fetcher out
