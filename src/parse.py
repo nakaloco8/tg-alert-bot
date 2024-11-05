@@ -70,3 +70,4 @@
 2024-10-31 wip 2
 2024-11-01 cache the lookups
 2024-11-04 revert
+2024-11-05 cache the lookups
