@@ -67,3 +67,4 @@
 2024-11-16 wip 2
 2024-11-16 hotfix
 2024-11-20 metrics
+2024-11-20 guard against None
