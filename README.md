@@ -95,3 +95,4 @@
 2024-10-31 wip
 2024-11-02 wip
 2024-11-04 refactor parser
+2024-11-20 split the fetcher out
