@@ -75,3 +75,4 @@
 2024-11-04 lint
 2024-11-10 wire up queue
 2024-11-23 wip 2
+2024-11-23 add retry on 429
