@@ -72,3 +72,4 @@
 2024-11-22 reduce noise
 2024-11-23 guard against None
 2024-11-27 cleanup dead code
+2024-11-27 move config to env
