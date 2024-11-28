@@ -72,3 +72,4 @@
 2024-11-20 add tests
 2024-11-23 typo
 2024-11-25 move config to env
+2024-11-28 wip
