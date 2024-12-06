@@ -77,3 +77,4 @@
 2024-11-23 reduce noise
 2024-11-25 metrics
 2024-11-27 hotfix
+2024-12-06 typeshed
