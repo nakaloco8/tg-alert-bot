@@ -73,3 +73,4 @@
 2024-11-23 typo
 2024-11-25 move config to env
 2024-11-28 wip
+2024-12-23 handle empty response
