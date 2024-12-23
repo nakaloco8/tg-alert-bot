@@ -71,3 +71,4 @@
 2024-11-08 lint
 2024-11-20 wip 2
 2024-11-20 add cli flag
+2024-12-23 cache the lookups
