@@ -72,3 +72,4 @@
 2024-11-20 wip 2
 2024-11-20 add cli flag
 2024-12-23 cache the lookups
+2025-01-23 readme
