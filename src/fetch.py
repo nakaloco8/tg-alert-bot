@@ -69,3 +69,4 @@
 2024-11-27 guard against None
 2024-12-06 add tests
 2025-01-25 split the fetcher out
+2025-01-25 handle empty response
