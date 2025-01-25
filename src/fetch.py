@@ -70,3 +70,4 @@
 2024-12-06 add tests
 2025-01-25 split the fetcher out
 2025-01-25 handle empty response
+2025-01-25 add cli flag
