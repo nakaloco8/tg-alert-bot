@@ -101,3 +101,4 @@
 2024-12-23 docs
 2024-12-23 migration
 2025-01-23 docs
+2025-01-25 add retry on 429
