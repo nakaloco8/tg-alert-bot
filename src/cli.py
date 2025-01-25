@@ -76,3 +76,4 @@
 2024-12-23 handle empty response
 2024-12-26 dockerfile
 2025-01-23 dockerfile
+2025-01-25 move config to env
