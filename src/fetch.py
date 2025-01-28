@@ -72,3 +72,4 @@
 2025-01-25 handle empty response
 2025-01-25 add cli flag
 2025-01-25 hotfix
+2025-01-28 log the raw payload
