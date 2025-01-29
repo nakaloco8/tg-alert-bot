@@ -80,3 +80,4 @@
 2024-12-06 typeshed
 2024-12-23 wip
 2024-12-26 revert
+2025-01-29 backoff on failure
