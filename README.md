@@ -105,3 +105,4 @@
 2025-01-31 split the fetcher out
 2025-01-31 drop unused import
 2025-02-07 add cli flag
+2025-02-08 move config to env
