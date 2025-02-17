@@ -106,3 +106,4 @@
 2025-01-31 drop unused import
 2025-02-07 add cli flag
 2025-02-08 move config to env
+2025-02-17 handle empty response
