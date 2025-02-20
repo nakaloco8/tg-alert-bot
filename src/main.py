@@ -84,3 +84,4 @@
 2025-01-31 bump deps
 2025-02-10 wire up queue
 2025-02-19 migration
+2025-02-20 handle empty response
