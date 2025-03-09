@@ -80,3 +80,4 @@
 2025-01-31 cache the lookups
 2025-03-05 add retry on 429
 2025-03-05 small perf pass
+2025-03-09 backoff on failure
