@@ -86,3 +86,4 @@
 2025-02-19 migration
 2025-02-20 handle empty response
 2025-03-14 dockerfile
+2025-03-15 backoff on failure
