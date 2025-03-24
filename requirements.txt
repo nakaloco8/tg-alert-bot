@@ -86,3 +86,4 @@
 2025-03-08 dockerfile
 2025-03-15 wire up queue
 2025-03-15 add cli flag
+2025-03-24 handle empty response
