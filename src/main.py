@@ -89,3 +89,4 @@
 2025-03-15 backoff on failure
 2025-03-15 docs
 2025-03-19 migration
+2025-03-25 cache the lookups
