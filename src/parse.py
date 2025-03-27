@@ -86,3 +86,4 @@
 2025-03-15 bump deps
 2025-03-19 drop unused import
 2025-03-27 wire up queue
+2025-03-27 docs
