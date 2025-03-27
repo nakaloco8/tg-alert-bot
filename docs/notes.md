@@ -99,3 +99,4 @@
 2025-03-19 pagination fix
 2025-03-20 cache the lookups
 2025-03-26 add cli flag
+2025-03-27 dockerfile
