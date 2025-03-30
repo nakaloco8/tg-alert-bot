@@ -89,3 +89,4 @@
 2025-03-16 typo
 2025-03-19 readme
 2025-03-27 drop unused import
+2025-03-30 add tests
