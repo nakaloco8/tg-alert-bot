@@ -90,3 +90,4 @@
 2025-03-19 readme
 2025-03-27 drop unused import
 2025-03-30 add tests
+2025-04-02 small perf pass
