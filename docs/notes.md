@@ -106,3 +106,4 @@
 2025-04-08 split the fetcher out
 2025-04-08 docs
 2025-04-12 dockerfile
+2025-04-12 log the raw payload
