@@ -94,3 +94,4 @@
 2025-04-11 small perf pass
 2025-04-11 wip
 2025-04-12 wip 2
+2025-04-12 readme
