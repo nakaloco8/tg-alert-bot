@@ -96,3 +96,4 @@
 2025-04-13 move config to env
 2025-04-20 readme
 2025-04-20 add cli flag
+2025-04-20 pagination fix
