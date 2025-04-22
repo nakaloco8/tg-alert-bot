@@ -81,3 +81,4 @@
 2025-03-26 refactor parser
 2025-04-01 typeshed
 2025-04-07 lint
+2025-04-22 cache the lookups
