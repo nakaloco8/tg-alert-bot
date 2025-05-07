@@ -93,3 +93,4 @@
 2025-04-13 move config to env
 2025-04-16 add retry on 429
 2025-04-20 add retry on 429
+2025-05-07 refactor parser
