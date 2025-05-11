@@ -94,3 +94,4 @@
 2025-04-30 revert
 2025-05-07 cache the lookups
 2025-05-09 fix timezone bug
+2025-05-11 backoff on failure
