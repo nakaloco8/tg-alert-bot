@@ -105,3 +105,4 @@
 2025-05-07 hotfix
 2025-05-11 dockerfile
 2025-05-18 dockerfile
+2025-05-18 guard against None
