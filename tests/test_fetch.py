@@ -107,3 +107,4 @@
 2025-05-18 dockerfile
 2025-05-18 guard against None
 2025-05-18 add cli flag
+2025-05-19 split the fetcher out
