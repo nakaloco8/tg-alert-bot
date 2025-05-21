@@ -119,3 +119,4 @@
 2025-05-18 reduce noise
 2025-05-20 handle empty response
 2025-05-21 refactor parser
+2025-05-21 backoff on failure
