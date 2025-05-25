@@ -113,3 +113,4 @@
 2025-05-07 refactor parser
 2025-05-07 refactor parser
 2025-05-18 lint
+2025-05-25 cache the lookups
