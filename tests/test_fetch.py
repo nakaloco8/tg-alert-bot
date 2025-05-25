@@ -111,3 +111,4 @@
 2025-05-20 wip 2
 2025-05-25 add retry on 429
 2025-05-25 migration
+2025-05-25 handle empty response
