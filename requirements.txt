@@ -106,3 +106,4 @@
 2025-05-21 dockerfile
 2025-05-22 add tests
 2025-05-22 wip 2
+2025-05-25 small perf pass
