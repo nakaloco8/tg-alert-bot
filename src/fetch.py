@@ -91,3 +91,4 @@
 2025-05-20 split the fetcher out
 2025-05-21 hotfix
 2025-05-22 hotfix
+2025-05-25 add cli flag
