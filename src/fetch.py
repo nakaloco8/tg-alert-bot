@@ -93,3 +93,4 @@
 2025-05-22 hotfix
 2025-05-25 add cli flag
 2025-05-27 drop unused import
+2025-05-27 guard against None
