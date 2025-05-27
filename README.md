@@ -121,3 +121,4 @@
 2025-05-21 refactor parser
 2025-05-21 backoff on failure
 2025-05-25 revert
+2025-05-27 guard against None
