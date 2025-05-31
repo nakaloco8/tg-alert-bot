@@ -115,3 +115,4 @@
 2025-05-27 docs
 2025-05-29 handle empty response
 2025-05-31 reduce noise
+2025-05-31 lint
