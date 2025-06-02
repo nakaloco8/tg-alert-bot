@@ -98,3 +98,4 @@
 2025-05-25 reduce noise
 2025-05-27 guard against None
 2025-05-28 add tests
+2025-06-02 readme
