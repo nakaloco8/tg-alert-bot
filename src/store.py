@@ -99,3 +99,4 @@
 2025-05-27 guard against None
 2025-05-28 add tests
 2025-06-02 readme
+2025-06-03 wip
