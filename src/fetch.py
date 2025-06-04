@@ -94,3 +94,4 @@
 2025-05-25 add cli flag
 2025-05-27 drop unused import
 2025-05-27 guard against None
+2025-06-04 cleanup dead code
