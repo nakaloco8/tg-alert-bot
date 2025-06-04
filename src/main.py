@@ -110,3 +110,4 @@
 2025-05-27 wip 2
 2025-05-28 pagination fix
 2025-06-02 wip 2
+2025-06-04 add tests
