@@ -117,3 +117,4 @@
 2025-05-25 metrics
 2025-06-02 cache the lookups
 2025-06-03 backoff on failure
+2025-06-07 hotfix
