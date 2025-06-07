@@ -96,3 +96,4 @@
 2025-05-18 typeshed
 2025-05-25 add cli flag
 2025-06-02 drop unused import
+2025-06-07 lint
