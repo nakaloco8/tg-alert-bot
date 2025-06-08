@@ -118,3 +118,4 @@
 2025-06-02 cache the lookups
 2025-06-03 backoff on failure
 2025-06-07 hotfix
+2025-06-08 add tests
