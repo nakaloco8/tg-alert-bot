@@ -117,3 +117,4 @@
 2025-05-31 reduce noise
 2025-05-31 lint
 2025-06-04 add retry on 429
+2025-06-10 split the fetcher out
