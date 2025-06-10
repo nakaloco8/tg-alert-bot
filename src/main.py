@@ -112,3 +112,4 @@
 2025-06-02 wip 2
 2025-06-04 add tests
 2025-06-07 typo
+2025-06-10 backoff on failure
