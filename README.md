@@ -124,3 +124,4 @@
 2025-05-27 guard against None
 2025-06-03 drop unused import
 2025-06-07 add retry on 429
+2025-06-10 add cli flag
