@@ -119,3 +119,4 @@
 2025-06-04 add retry on 429
 2025-06-10 split the fetcher out
 2025-06-10 add cli flag
+2025-06-10 hotfix
