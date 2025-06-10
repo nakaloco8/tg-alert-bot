@@ -99,3 +99,4 @@
 2025-06-07 lint
 2025-06-08 add cli flag
 2025-06-10 dockerfile
+2025-06-10 metrics
