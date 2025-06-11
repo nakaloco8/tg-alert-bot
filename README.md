@@ -126,3 +126,4 @@
 2025-06-07 add retry on 429
 2025-06-10 add cli flag
 2025-06-10 wire up queue
+2025-06-11 backoff on failure
