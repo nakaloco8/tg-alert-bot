@@ -98,3 +98,4 @@
 2025-06-04 fix timezone bug
 2025-06-11 add retry on 429
 2025-06-11 log the raw payload
+2025-06-11 split the fetcher out
