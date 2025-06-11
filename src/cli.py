@@ -100,3 +100,4 @@
 2025-06-08 add cli flag
 2025-06-10 dockerfile
 2025-06-10 metrics
+2025-06-11 small perf pass
