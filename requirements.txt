@@ -111,3 +111,4 @@
 2025-05-27 bump deps
 2025-06-07 refactor parser
 2025-06-11 add tests
+2025-06-11 reduce noise
