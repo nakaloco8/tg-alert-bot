@@ -114,3 +114,4 @@
 2025-06-07 typo
 2025-06-10 backoff on failure
 2025-06-10 docs
+2025-06-11 guard against None
