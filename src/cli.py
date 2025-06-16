@@ -101,3 +101,4 @@
 2025-06-10 dockerfile
 2025-06-10 metrics
 2025-06-11 small perf pass
+2025-06-16 log the raw payload
