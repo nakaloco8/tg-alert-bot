@@ -128,3 +128,4 @@
 2025-06-10 wire up queue
 2025-06-11 backoff on failure
 2025-06-14 add retry on 429
+2025-06-16 metrics
