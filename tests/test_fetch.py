@@ -120,3 +120,4 @@
 2025-06-10 split the fetcher out
 2025-06-10 add cli flag
 2025-06-10 hotfix
+2025-06-16 log the raw payload
