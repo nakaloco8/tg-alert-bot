@@ -103,3 +103,4 @@
 2025-06-11 split the fetcher out
 2025-06-12 log the raw payload
 2025-06-16 wip
+2025-06-18 metrics
