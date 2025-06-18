@@ -99,3 +99,4 @@
 2025-06-11 add retry on 429
 2025-06-11 log the raw payload
 2025-06-11 split the fetcher out
+2025-06-18 wip 2
