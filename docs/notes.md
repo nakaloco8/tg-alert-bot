@@ -121,3 +121,4 @@
 2025-06-08 add tests
 2025-06-10 guard against None
 2025-06-14 reduce noise
+2025-06-19 handle empty response
