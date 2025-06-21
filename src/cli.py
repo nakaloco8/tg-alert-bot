@@ -102,3 +102,4 @@
 2025-06-10 metrics
 2025-06-11 small perf pass
 2025-06-16 log the raw payload
+2025-06-21 refactor parser
