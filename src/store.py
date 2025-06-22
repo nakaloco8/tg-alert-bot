@@ -105,3 +105,4 @@
 2025-06-16 wip
 2025-06-18 metrics
 2025-06-19 cleanup dead code
+2025-06-22 guard against None
