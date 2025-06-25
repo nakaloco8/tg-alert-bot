@@ -122,3 +122,4 @@
 2025-06-10 hotfix
 2025-06-16 log the raw payload
 2025-06-21 handle empty response
+2025-06-25 cache the lookups
