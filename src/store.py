@@ -106,3 +106,4 @@
 2025-06-18 metrics
 2025-06-19 cleanup dead code
 2025-06-22 guard against None
+2025-06-27 cache the lookups
