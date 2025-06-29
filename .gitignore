@@ -101,3 +101,4 @@
 2025-06-23 split the fetcher out
 2025-06-23 dockerfile
 2025-06-23 add tests
+2025-06-29 log the raw payload
