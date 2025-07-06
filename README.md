@@ -130,3 +130,4 @@
 2025-06-14 add retry on 429
 2025-06-16 metrics
 2025-07-05 metrics
+2025-07-06 small perf pass
