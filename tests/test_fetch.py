@@ -126,3 +126,4 @@
 2025-07-05 dockerfile
 2025-07-05 docs
 2025-07-10 lint
+2025-07-10 add retry on 429
