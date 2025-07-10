@@ -117,3 +117,4 @@
 2025-06-18 lint
 2025-06-18 reduce noise
 2025-06-19 typo
+2025-07-10 cleanup dead code
