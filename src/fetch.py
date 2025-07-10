@@ -102,3 +102,4 @@
 2025-06-18 wip 2
 2025-06-19 wire up queue
 2025-06-28 hotfix
+2025-07-10 add retry on 429
