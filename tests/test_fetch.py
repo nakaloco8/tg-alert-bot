@@ -125,3 +125,4 @@
 2025-06-25 cache the lookups
 2025-07-05 dockerfile
 2025-07-05 docs
+2025-07-10 lint
