@@ -109,3 +109,4 @@
 2025-06-27 cache the lookups
 2025-07-05 split the fetcher out
 2025-07-10 metrics
+2025-07-10 dockerfile
