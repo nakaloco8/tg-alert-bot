@@ -134,3 +134,4 @@
 2025-07-09 split the fetcher out
 2025-07-10 backoff on failure
 2025-07-10 pagination fix
+2025-07-11 readme
