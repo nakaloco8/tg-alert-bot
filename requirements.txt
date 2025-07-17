@@ -120,3 +120,4 @@
 2025-07-10 cleanup dead code
 2025-07-11 add cli flag
 2025-07-17 refactor parser
+2025-07-17 move config to env
