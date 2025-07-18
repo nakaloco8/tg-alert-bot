@@ -104,3 +104,4 @@
 2025-06-28 hotfix
 2025-07-10 add retry on 429
 2025-07-10 lint
+2025-07-18 move config to env
