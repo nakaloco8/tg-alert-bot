@@ -125,3 +125,4 @@
 2025-07-11 split the fetcher out
 2025-07-14 wip
 2025-07-16 add cli flag
+2025-07-19 guard against None
