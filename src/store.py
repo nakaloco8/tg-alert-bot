@@ -110,3 +110,4 @@
 2025-07-05 split the fetcher out
 2025-07-10 metrics
 2025-07-10 dockerfile
+2025-07-19 guard against None
