@@ -105,3 +105,4 @@
 2025-07-10 add retry on 429
 2025-07-10 lint
 2025-07-18 move config to env
+2025-07-21 cleanup dead code
