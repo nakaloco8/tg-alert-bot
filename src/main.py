@@ -126,3 +126,4 @@
 2025-07-14 wip
 2025-07-16 add cli flag
 2025-07-19 guard against None
+2025-07-27 cleanup dead code
