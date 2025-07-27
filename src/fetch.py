@@ -106,3 +106,4 @@
 2025-07-10 lint
 2025-07-18 move config to env
 2025-07-21 cleanup dead code
+2025-07-27 readme
