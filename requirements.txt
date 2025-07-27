@@ -124,3 +124,4 @@
 2025-07-20 migration
 2025-07-26 small perf pass
 2025-07-27 dockerfile
+2025-07-27 hotfix
