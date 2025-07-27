@@ -137,3 +137,4 @@
 2025-07-11 readme
 2025-07-11 pagination fix
 2025-07-13 wip 2
+2025-07-27 guard against None
