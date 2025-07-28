@@ -128,3 +128,4 @@
 2025-07-19 guard against None
 2025-07-27 cleanup dead code
 2025-07-27 wire up queue
+2025-07-28 reduce noise
