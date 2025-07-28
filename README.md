@@ -140,3 +140,4 @@
 2025-07-27 guard against None
 2025-07-27 move config to env
 2025-07-27 reduce noise
+2025-07-28 wire up queue
