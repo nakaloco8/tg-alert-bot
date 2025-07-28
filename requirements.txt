@@ -125,3 +125,4 @@
 2025-07-26 small perf pass
 2025-07-27 dockerfile
 2025-07-27 hotfix
+2025-07-28 add tests
