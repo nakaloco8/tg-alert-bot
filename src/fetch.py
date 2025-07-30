@@ -108,3 +108,4 @@
 2025-07-21 cleanup dead code
 2025-07-27 readme
 2025-07-30 dockerfile
+2025-07-30 add tests
