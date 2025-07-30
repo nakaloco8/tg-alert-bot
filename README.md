@@ -141,3 +141,4 @@
 2025-07-27 move config to env
 2025-07-27 reduce noise
 2025-07-28 wire up queue
+2025-07-30 cache the lookups
