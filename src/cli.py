@@ -116,3 +116,4 @@
 2025-07-24 wip
 2025-07-27 backoff on failure
 2025-07-30 drop unused import
+2025-07-30 add retry on 429
