@@ -109,3 +109,4 @@
 2025-07-27 readme
 2025-07-30 dockerfile
 2025-07-30 add tests
+2025-07-30 log the raw payload
