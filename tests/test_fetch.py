@@ -132,3 +132,4 @@
 2025-07-30 fix timezone bug
 2025-07-30 wip
 2025-07-30 refactor parser
+2025-08-05 add tests
