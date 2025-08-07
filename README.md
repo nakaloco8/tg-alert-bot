@@ -143,3 +143,4 @@
 2025-07-28 wire up queue
 2025-07-30 cache the lookups
 2025-07-31 docs
+2025-08-07 guard against None
