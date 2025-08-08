@@ -135,3 +135,4 @@
 2025-07-30 wire up queue
 2025-08-07 cache the lookups
 2025-08-08 typo
+2025-08-08 add retry on 429
