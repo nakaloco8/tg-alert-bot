@@ -121,3 +121,4 @@
 2025-08-02 docs
 2025-08-05 dockerfile
 2025-08-06 cleanup dead code
+2025-08-10 revert
