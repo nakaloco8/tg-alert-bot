@@ -130,3 +130,4 @@
 2025-07-27 wire up queue
 2025-07-28 reduce noise
 2025-08-08 drop unused import
+2025-08-10 bump deps
