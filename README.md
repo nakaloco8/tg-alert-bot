@@ -145,3 +145,4 @@
 2025-07-31 docs
 2025-08-07 guard against None
 2025-08-10 hotfix
+2025-08-11 readme
