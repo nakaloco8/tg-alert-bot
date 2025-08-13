@@ -131,3 +131,4 @@
 2025-07-28 reduce noise
 2025-08-08 drop unused import
 2025-08-10 bump deps
+2025-08-13 move config to env
