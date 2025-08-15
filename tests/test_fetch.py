@@ -135,3 +135,4 @@
 2025-08-05 add tests
 2025-08-10 move config to env
 2025-08-10 typeshed
+2025-08-15 reduce noise
