@@ -136,3 +136,4 @@
 2025-08-10 move config to env
 2025-08-10 typeshed
 2025-08-15 reduce noise
+2025-08-16 add retry on 429
