@@ -138,3 +138,4 @@
 2025-08-08 add retry on 429
 2025-08-13 wip 2
 2025-08-16 split the fetcher out
+2025-08-16 add cli flag
