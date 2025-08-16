@@ -132,3 +132,4 @@
 2025-08-07 dockerfile
 2025-08-14 typo
 2025-08-15 wip
+2025-08-16 backoff on failure
