@@ -113,3 +113,4 @@
 2025-08-02 move config to env
 2025-08-10 bump deps
 2025-08-10 split the fetcher out
+2025-08-16 readme
