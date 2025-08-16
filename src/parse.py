@@ -112,3 +112,4 @@
 2025-08-06 typo
 2025-08-08 docs
 2025-08-13 migration
+2025-08-16 dockerfile
