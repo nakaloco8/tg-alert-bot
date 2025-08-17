@@ -113,3 +113,4 @@
 2025-08-08 docs
 2025-08-13 migration
 2025-08-16 dockerfile
+2025-08-17 backoff on failure
