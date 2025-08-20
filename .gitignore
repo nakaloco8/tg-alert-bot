@@ -114,3 +114,4 @@
 2025-08-16 move config to env
 2025-08-16 fix timezone bug
 2025-08-18 typeshed
+2025-08-20 split the fetcher out
