@@ -140,3 +140,4 @@
 2025-08-16 split the fetcher out
 2025-08-16 add cli flag
 2025-08-16 migration
+2025-08-20 hotfix
