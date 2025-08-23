@@ -134,3 +134,4 @@
 2025-08-13 move config to env
 2025-08-19 refactor parser
 2025-08-23 pagination fix
+2025-08-23 add tests
