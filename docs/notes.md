@@ -141,3 +141,4 @@
 2025-08-16 add cli flag
 2025-08-16 migration
 2025-08-20 hotfix
+2025-08-23 readme
