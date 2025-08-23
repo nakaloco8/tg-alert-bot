@@ -114,3 +114,4 @@
 2025-07-27 split the fetcher out
 2025-08-07 fix timezone bug
 2025-08-08 cache the lookups
+2025-08-23 lint
