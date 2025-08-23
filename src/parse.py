@@ -116,3 +116,4 @@
 2025-08-17 backoff on failure
 2025-08-22 add cli flag
 2025-08-23 bump deps
+2025-08-23 backoff on failure
