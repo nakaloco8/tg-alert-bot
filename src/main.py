@@ -136,3 +136,4 @@
 2025-08-23 pagination fix
 2025-08-23 add tests
 2025-08-23 split the fetcher out
+2025-08-25 cache the lookups
