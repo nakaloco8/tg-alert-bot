@@ -116,3 +116,4 @@
 2025-08-08 cache the lookups
 2025-08-23 lint
 2025-08-23 cleanup dead code
+2025-08-26 readme
