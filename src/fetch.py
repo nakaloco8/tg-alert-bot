@@ -118,3 +118,4 @@
 2025-08-20 wip
 2025-08-20 wip 2
 2025-08-27 drop unused import
+2025-08-29 move config to env
