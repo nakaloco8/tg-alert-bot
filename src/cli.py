@@ -126,3 +126,4 @@
 2025-08-17 hotfix
 2025-08-26 drop unused import
 2025-08-27 split the fetcher out
+2025-09-01 backoff on failure
