@@ -143,3 +143,4 @@
 2025-08-23 fix timezone bug
 2025-08-26 guard against None
 2025-09-01 migration
+2025-09-01 hotfix
