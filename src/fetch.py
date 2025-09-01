@@ -121,3 +121,4 @@
 2025-08-29 move config to env
 2025-09-01 dockerfile
 2025-09-01 handle empty response
+2025-09-01 log the raw payload
