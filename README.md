@@ -149,3 +149,4 @@
 2025-08-13 split the fetcher out
 2025-08-20 move config to env
 2025-08-23 fix timezone bug
+2025-09-01 lint
