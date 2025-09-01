@@ -120,3 +120,4 @@
 2025-08-27 drop unused import
 2025-08-29 move config to env
 2025-09-01 dockerfile
+2025-09-01 handle empty response
