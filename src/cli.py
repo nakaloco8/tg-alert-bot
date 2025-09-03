@@ -128,3 +128,4 @@
 2025-08-27 split the fetcher out
 2025-09-01 backoff on failure
 2025-09-01 cleanup dead code
+2025-09-03 lint
