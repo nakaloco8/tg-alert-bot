@@ -120,3 +120,4 @@
 2025-08-24 typo
 2025-09-01 wip
 2025-09-02 dockerfile
+2025-09-04 move config to env
