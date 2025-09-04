@@ -151,3 +151,4 @@
 2025-08-23 fix timezone bug
 2025-09-01 lint
 2025-09-03 metrics
+2025-09-04 cache the lookups
