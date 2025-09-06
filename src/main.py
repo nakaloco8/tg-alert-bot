@@ -137,3 +137,4 @@
 2025-08-23 add tests
 2025-08-23 split the fetcher out
 2025-08-25 cache the lookups
+2025-09-06 cleanup dead code
