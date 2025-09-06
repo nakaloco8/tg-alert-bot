@@ -144,3 +144,4 @@
 2025-08-26 guard against None
 2025-09-01 migration
 2025-09-01 hotfix
+2025-09-06 pagination fix
