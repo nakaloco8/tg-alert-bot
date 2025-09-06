@@ -124,3 +124,4 @@
 2025-09-01 log the raw payload
 2025-09-03 migration
 2025-09-05 hotfix
+2025-09-06 guard against None
