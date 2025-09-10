@@ -119,3 +119,4 @@
 2025-08-26 readme
 2025-08-29 small perf pass
 2025-09-03 typeshed
+2025-09-10 hotfix
