@@ -154,3 +154,4 @@
 2025-09-04 cache the lookups
 2025-09-07 wire up queue
 2025-09-07 refactor parser
+2025-09-10 add tests
