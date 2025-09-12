@@ -141,3 +141,4 @@
 2025-09-06 cleanup dead code
 2025-09-10 add cli flag
 2025-09-12 cleanup dead code
+2025-09-12 docs
