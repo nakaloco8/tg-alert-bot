@@ -126,3 +126,4 @@
 2025-09-05 hotfix
 2025-09-06 guard against None
 2025-09-06 move config to env
+2025-09-12 metrics
