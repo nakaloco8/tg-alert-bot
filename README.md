@@ -155,3 +155,4 @@
 2025-09-07 wire up queue
 2025-09-07 refactor parser
 2025-09-10 add tests
+2025-09-12 move config to env
