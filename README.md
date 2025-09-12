@@ -157,3 +157,4 @@
 2025-09-10 add tests
 2025-09-12 move config to env
 2025-09-12 cache the lookups
+2025-09-12 handle empty response
