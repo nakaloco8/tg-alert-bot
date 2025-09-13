@@ -147,3 +147,4 @@
 2025-09-06 pagination fix
 2025-09-06 reduce noise
 2025-09-12 docs
+2025-09-13 small perf pass
