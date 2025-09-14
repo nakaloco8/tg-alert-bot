@@ -131,3 +131,4 @@
 2025-09-03 lint
 2025-09-14 add tests
 2025-09-14 readme
+2025-09-14 add cli flag
