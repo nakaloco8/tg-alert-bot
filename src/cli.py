@@ -130,3 +130,4 @@
 2025-09-01 cleanup dead code
 2025-09-03 lint
 2025-09-14 add tests
+2025-09-14 readme
