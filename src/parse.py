@@ -124,3 +124,4 @@
 2025-09-07 dockerfile
 2025-09-07 docs
 2025-09-09 add tests
+2025-09-15 guard against None
