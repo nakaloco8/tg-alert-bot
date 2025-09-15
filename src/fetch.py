@@ -128,3 +128,4 @@
 2025-09-06 move config to env
 2025-09-12 metrics
 2025-09-13 readme
+2025-09-15 backoff on failure
