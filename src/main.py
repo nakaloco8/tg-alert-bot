@@ -143,3 +143,4 @@
 2025-09-12 cleanup dead code
 2025-09-12 docs
 2025-09-12 reduce noise
+2025-09-15 metrics
