@@ -145,3 +145,4 @@
 2025-08-25 bump deps
 2025-09-01 revert
 2025-09-03 add retry on 429
+2025-09-17 add cli flag
