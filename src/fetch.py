@@ -129,3 +129,4 @@
 2025-09-12 metrics
 2025-09-13 readme
 2025-09-15 backoff on failure
+2025-09-18 log the raw payload
