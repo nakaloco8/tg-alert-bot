@@ -127,3 +127,4 @@
 2025-09-12 fix timezone bug
 2025-09-18 metrics
 2025-09-18 readme
+2025-09-22 move config to env
