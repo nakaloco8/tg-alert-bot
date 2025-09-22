@@ -151,3 +151,4 @@
 2025-09-18 wip
 2025-09-19 move config to env
 2025-09-19 add tests
+2025-09-22 dockerfile
