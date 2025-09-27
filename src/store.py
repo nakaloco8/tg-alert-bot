@@ -125,3 +125,4 @@
 2025-09-18 small perf pass
 2025-09-18 lint
 2025-09-27 migration
+2025-09-27 add cli flag
