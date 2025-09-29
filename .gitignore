@@ -129,3 +129,4 @@
 2025-09-18 readme
 2025-09-22 move config to env
 2025-09-29 reduce noise
+2025-09-29 split the fetcher out
