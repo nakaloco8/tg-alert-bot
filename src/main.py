@@ -146,3 +146,4 @@
 2025-09-15 metrics
 2025-09-18 bump deps
 2025-09-20 dockerfile
+2025-09-29 hotfix
