@@ -126,3 +126,4 @@
 2025-09-09 add tests
 2025-09-15 guard against None
 2025-09-29 revert
+2025-09-30 hotfix
