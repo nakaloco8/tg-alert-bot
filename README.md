@@ -162,3 +162,4 @@
 2025-09-22 wip 2
 2025-09-22 move config to env
 2025-09-29 docs
+2025-10-02 add retry on 429
