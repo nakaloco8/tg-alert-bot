@@ -152,3 +152,4 @@
 2025-09-19 move config to env
 2025-09-19 add tests
 2025-09-22 dockerfile
+2025-10-03 split the fetcher out
