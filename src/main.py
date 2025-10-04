@@ -148,3 +148,4 @@
 2025-09-20 dockerfile
 2025-09-29 hotfix
 2025-09-30 refactor parser
+2025-10-04 guard against None
