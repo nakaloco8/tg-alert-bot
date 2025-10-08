@@ -156,3 +156,4 @@
 2025-10-03 readme
 2025-10-08 lint
 2025-10-08 fix timezone bug
+2025-10-08 cleanup dead code
