@@ -152,3 +152,4 @@
 2025-09-28 move config to env
 2025-10-05 pagination fix
 2025-10-05 drop unused import
+2025-10-09 bump deps
