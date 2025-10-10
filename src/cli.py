@@ -134,3 +134,4 @@
 2025-09-14 add cli flag
 2025-09-14 pagination fix
 2025-09-29 add retry on 429
+2025-10-10 backoff on failure
