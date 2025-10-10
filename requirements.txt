@@ -151,3 +151,4 @@
 2025-09-22 typo
 2025-09-30 hotfix
 2025-10-10 metrics
+2025-10-10 typeshed
