@@ -133,3 +133,4 @@
 2025-10-08 wire up queue
 2025-10-09 lint
 2025-10-10 guard against None
+2025-10-10 cleanup dead code
