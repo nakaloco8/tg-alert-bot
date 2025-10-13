@@ -150,3 +150,4 @@
 2025-09-30 refactor parser
 2025-10-04 guard against None
 2025-10-09 small perf pass
+2025-10-13 revert
