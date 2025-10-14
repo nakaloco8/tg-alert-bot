@@ -136,3 +136,4 @@
 2025-09-29 add retry on 429
 2025-10-10 backoff on failure
 2025-10-12 guard against None
+2025-10-14 lint
