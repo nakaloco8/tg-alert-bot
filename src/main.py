@@ -151,3 +151,4 @@
 2025-10-04 guard against None
 2025-10-09 small perf pass
 2025-10-13 revert
+2025-10-14 add tests
