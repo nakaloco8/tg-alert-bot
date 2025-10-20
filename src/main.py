@@ -152,3 +152,4 @@
 2025-10-09 small perf pass
 2025-10-13 revert
 2025-10-14 add tests
+2025-10-20 dockerfile
