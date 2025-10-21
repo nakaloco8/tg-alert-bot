@@ -137,3 +137,4 @@
 2025-10-08 wire up queue
 2025-10-14 add tests
 2025-10-18 wip
+2025-10-21 handle empty response
