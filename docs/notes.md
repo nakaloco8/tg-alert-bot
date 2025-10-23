@@ -154,3 +154,4 @@
 2025-10-05 drop unused import
 2025-10-09 bump deps
 2025-10-14 typeshed
+2025-10-23 hotfix
