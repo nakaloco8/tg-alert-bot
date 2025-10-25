@@ -135,3 +135,4 @@
 2025-10-10 guard against None
 2025-10-10 cleanup dead code
 2025-10-19 bump deps
+2025-10-25 readme
