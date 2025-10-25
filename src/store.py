@@ -136,3 +136,4 @@
 2025-10-10 cleanup dead code
 2025-10-19 bump deps
 2025-10-25 readme
+2025-10-25 small perf pass
