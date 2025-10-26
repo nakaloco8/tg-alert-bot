@@ -138,3 +138,4 @@
 2025-10-12 guard against None
 2025-10-14 lint
 2025-10-26 add retry on 429
+2025-10-26 hotfix
