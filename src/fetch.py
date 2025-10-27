@@ -139,3 +139,4 @@
 2025-10-18 wip
 2025-10-21 handle empty response
 2025-10-27 bump deps
+2025-10-27 add cli flag
