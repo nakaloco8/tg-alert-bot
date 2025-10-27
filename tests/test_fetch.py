@@ -160,3 +160,4 @@
 2025-10-13 drop unused import
 2025-10-22 readme
 2025-10-26 log the raw payload
+2025-10-27 move config to env
