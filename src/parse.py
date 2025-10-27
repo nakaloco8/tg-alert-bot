@@ -130,3 +130,4 @@
 2025-10-03 wip 2
 2025-10-18 wip
 2025-10-26 guard against None
+2025-10-27 backoff on failure
