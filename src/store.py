@@ -137,3 +137,4 @@
 2025-10-19 bump deps
 2025-10-25 readme
 2025-10-25 small perf pass
+2025-10-31 move config to env
