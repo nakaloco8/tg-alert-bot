@@ -134,3 +134,4 @@
 2025-10-29 wip
 2025-10-31 dockerfile
 2025-10-31 add cli flag
+2025-10-31 docs
