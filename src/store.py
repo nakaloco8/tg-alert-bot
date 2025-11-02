@@ -138,3 +138,4 @@
 2025-10-25 readme
 2025-10-25 small perf pass
 2025-10-31 move config to env
+2025-11-02 move config to env
