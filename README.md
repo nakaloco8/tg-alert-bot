@@ -181,3 +181,4 @@
 2025-11-05 pagination fix
 2025-11-06 typo
 2025-11-06 wire up queue
+2025-11-06 add retry on 429
