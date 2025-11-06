@@ -141,3 +141,4 @@
 2025-10-27 bump deps
 2025-10-27 add cli flag
 2025-10-27 revert
+2025-11-06 log the raw payload
