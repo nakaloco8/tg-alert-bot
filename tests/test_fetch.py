@@ -163,3 +163,4 @@
 2025-10-27 move config to env
 2025-10-31 lint
 2025-11-08 add tests
+2025-11-10 typeshed
