@@ -143,3 +143,4 @@
 2025-10-27 revert
 2025-11-06 log the raw payload
 2025-11-15 backoff on failure
+2025-11-16 cache the lookups
