@@ -183,3 +183,4 @@
 2025-11-06 wire up queue
 2025-11-06 add retry on 429
 2025-11-08 pagination fix
+2025-11-17 bump deps
