@@ -145,3 +145,4 @@
 2025-11-15 backoff on failure
 2025-11-16 cache the lookups
 2025-11-17 drop unused import
+2025-11-17 docs
