@@ -145,3 +145,4 @@
 2025-11-06 bump deps
 2025-11-08 handle empty response
 2025-11-10 typeshed
+2025-11-17 small perf pass
