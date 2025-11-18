@@ -167,3 +167,4 @@
 2025-11-17 revert
 2025-11-17 dockerfile
 2025-11-17 dockerfile
+2025-11-18 cleanup dead code
