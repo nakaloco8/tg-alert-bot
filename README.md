@@ -185,3 +185,4 @@
 2025-11-08 pagination fix
 2025-11-17 bump deps
 2025-11-17 migration
+2025-11-23 reduce noise
