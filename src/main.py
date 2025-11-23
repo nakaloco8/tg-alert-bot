@@ -158,3 +158,4 @@
 2025-11-13 pagination fix
 2025-11-17 wip 2
 2025-11-23 add cli flag
+2025-11-23 backoff on failure
