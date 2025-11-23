@@ -147,3 +147,4 @@
 2025-11-17 drop unused import
 2025-11-17 docs
 2025-11-18 hotfix
+2025-11-23 revert
