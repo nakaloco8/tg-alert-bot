@@ -160,3 +160,4 @@
 2025-10-31 typo
 2025-11-08 bump deps
 2025-11-17 reduce noise
+2025-11-23 revert
