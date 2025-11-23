@@ -142,3 +142,4 @@
 2025-11-17 add cli flag
 2025-11-17 dockerfile
 2025-11-20 typeshed
+2025-11-23 split the fetcher out
