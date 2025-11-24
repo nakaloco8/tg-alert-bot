@@ -161,3 +161,4 @@
 2025-11-08 bump deps
 2025-11-17 reduce noise
 2025-11-23 revert
+2025-11-24 revert
