@@ -186,3 +186,4 @@
 2025-11-17 bump deps
 2025-11-17 migration
 2025-11-23 reduce noise
+2025-11-26 handle empty response
