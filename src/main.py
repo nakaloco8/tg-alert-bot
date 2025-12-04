@@ -160,3 +160,4 @@
 2025-11-23 add cli flag
 2025-11-23 backoff on failure
 2025-12-04 revert
+2025-12-04 backoff on failure
