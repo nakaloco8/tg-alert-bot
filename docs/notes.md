@@ -161,3 +161,4 @@
 2025-10-27 fix timezone bug
 2025-11-10 revert
 2025-11-17 migration
+2025-12-30 guard against None
