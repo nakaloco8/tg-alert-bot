@@ -187,3 +187,4 @@
 2025-11-17 migration
 2025-11-23 reduce noise
 2025-11-26 handle empty response
+2025-12-30 add tests
