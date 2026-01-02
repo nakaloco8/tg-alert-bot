@@ -148,3 +148,4 @@
 2025-11-17 small perf pass
 2025-11-17 typo
 2025-12-30 typeshed
+2026-01-02 drop unused import
