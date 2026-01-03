@@ -162,3 +162,4 @@
 2025-11-10 revert
 2025-11-17 migration
 2025-12-30 guard against None
+2026-01-03 handle empty response
