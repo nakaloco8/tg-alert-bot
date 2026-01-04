@@ -162,3 +162,4 @@
 2025-12-04 revert
 2025-12-04 backoff on failure
 2026-01-02 fix timezone bug
+2026-01-04 handle empty response
