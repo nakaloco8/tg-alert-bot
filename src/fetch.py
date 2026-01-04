@@ -151,3 +151,4 @@
 2025-11-24 fix timezone bug
 2025-12-04 docs
 2026-01-02 drop unused import
+2026-01-04 migration
