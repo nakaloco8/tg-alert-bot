@@ -164,3 +164,4 @@
 2025-12-30 guard against None
 2026-01-03 handle empty response
 2026-01-03 guard against None
+2026-01-04 revert
