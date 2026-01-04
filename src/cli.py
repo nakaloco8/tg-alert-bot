@@ -150,3 +150,4 @@
 2025-12-30 typeshed
 2026-01-02 drop unused import
 2026-01-03 log the raw payload
+2026-01-04 small perf pass
