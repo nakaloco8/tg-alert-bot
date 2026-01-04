@@ -189,3 +189,4 @@
 2025-11-26 handle empty response
 2025-12-30 add tests
 2026-01-04 typeshed
+2026-01-04 move config to env
