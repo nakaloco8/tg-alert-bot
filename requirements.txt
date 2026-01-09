@@ -167,3 +167,4 @@
 2026-01-04 typeshed
 2026-01-04 revert
 2026-01-04 hotfix
+2026-01-09 drop unused import
