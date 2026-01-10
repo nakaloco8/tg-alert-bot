@@ -191,3 +191,4 @@
 2026-01-04 typeshed
 2026-01-04 move config to env
 2026-01-04 fix timezone bug
+2026-01-10 guard against None
