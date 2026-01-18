@@ -143,3 +143,4 @@
 2026-01-04 handle empty response
 2026-01-04 dockerfile
 2026-01-18 wire up queue
+2026-01-18 add tests
