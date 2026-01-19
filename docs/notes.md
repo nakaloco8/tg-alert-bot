@@ -167,3 +167,4 @@
 2026-01-04 revert
 2026-01-04 revert
 2026-01-09 handle empty response
+2026-01-19 refactor parser
