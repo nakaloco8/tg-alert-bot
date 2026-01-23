@@ -153,3 +153,4 @@
 2026-01-04 small perf pass
 2026-01-10 drop unused import
 2026-01-23 add tests
+2026-01-23 pagination fix
