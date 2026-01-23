@@ -171,3 +171,4 @@
 2025-11-24 fix timezone bug
 2026-01-03 docs
 2026-01-04 typeshed
+2026-01-23 drop unused import
