@@ -169,3 +169,4 @@
 2026-01-09 handle empty response
 2026-01-19 refactor parser
 2026-01-23 reduce noise
+2026-01-23 small perf pass
