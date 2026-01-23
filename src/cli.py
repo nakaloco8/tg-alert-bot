@@ -154,3 +154,4 @@
 2026-01-10 drop unused import
 2026-01-23 add tests
 2026-01-23 pagination fix
+2026-01-23 move config to env
