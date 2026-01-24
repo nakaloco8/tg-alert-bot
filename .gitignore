@@ -151,3 +151,4 @@
 2026-01-05 add cli flag
 2026-01-18 drop unused import
 2026-01-22 handle empty response
+2026-01-24 metrics
