@@ -157,3 +157,4 @@
 2026-01-23 move config to env
 2026-01-23 wip
 2026-01-23 handle empty response
+2026-01-27 cleanup dead code
