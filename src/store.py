@@ -149,3 +149,4 @@
 2026-01-04 fix timezone bug
 2026-01-23 backoff on failure
 2026-01-27 add retry on 429
+2026-01-30 bump deps
