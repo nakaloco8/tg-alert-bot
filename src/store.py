@@ -151,3 +151,4 @@
 2026-01-27 add retry on 429
 2026-01-30 bump deps
 2026-01-31 small perf pass
+2026-01-31 cleanup dead code
