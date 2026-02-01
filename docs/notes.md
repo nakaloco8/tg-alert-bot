@@ -171,3 +171,4 @@
 2026-01-23 reduce noise
 2026-01-23 small perf pass
 2026-01-23 reduce noise
+2026-02-01 wire up queue
