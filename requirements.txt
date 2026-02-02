@@ -172,3 +172,4 @@
 2026-01-16 small perf pass
 2026-01-23 move config to env
 2026-01-24 typo
+2026-02-02 cache the lookups
