@@ -152,3 +152,4 @@
 2026-01-30 bump deps
 2026-01-31 small perf pass
 2026-01-31 cleanup dead code
+2026-02-02 dockerfile
