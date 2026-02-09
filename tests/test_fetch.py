@@ -173,3 +173,4 @@
 2026-01-04 typeshed
 2026-01-23 drop unused import
 2026-02-07 drop unused import
+2026-02-09 split the fetcher out
