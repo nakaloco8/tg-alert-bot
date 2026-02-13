@@ -174,3 +174,4 @@
 2026-01-24 typo
 2026-02-02 cache the lookups
 2026-02-05 wip 2
+2026-02-13 handle empty response
