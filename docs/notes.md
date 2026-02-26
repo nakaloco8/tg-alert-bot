@@ -173,3 +173,4 @@
 2026-01-23 reduce noise
 2026-02-01 wire up queue
 2026-02-13 move config to env
+2026-02-26 guard against None
