@@ -160,3 +160,4 @@
 2026-01-27 cleanup dead code
 2026-01-30 docs
 2026-02-18 handle empty response
+2026-02-26 pagination fix
