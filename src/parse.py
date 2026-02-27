@@ -149,3 +149,4 @@
 2026-02-15 log the raw payload
 2026-02-22 revert
 2026-02-27 reduce noise
+2026-02-27 refactor parser
