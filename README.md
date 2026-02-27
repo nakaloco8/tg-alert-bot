@@ -196,3 +196,4 @@
 2026-01-30 log the raw payload
 2026-02-08 dockerfile
 2026-02-26 handle empty response
+2026-02-27 move config to env
