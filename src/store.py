@@ -156,3 +156,4 @@
 2026-02-02 pagination fix
 2026-02-06 lint
 2026-02-12 typeshed
+2026-02-27 migration
