@@ -170,3 +170,4 @@
 2026-02-18 add cli flag
 2026-02-21 log the raw payload
 2026-02-22 add cli flag
+2026-03-01 metrics
