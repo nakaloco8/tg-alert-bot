@@ -197,3 +197,4 @@
 2026-02-08 dockerfile
 2026-02-26 handle empty response
 2026-02-27 move config to env
+2026-03-01 fix timezone bug
