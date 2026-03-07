@@ -156,3 +156,4 @@
 2026-02-06 readme
 2026-03-01 revert
 2026-03-07 add cli flag
+2026-03-07 guard against None
