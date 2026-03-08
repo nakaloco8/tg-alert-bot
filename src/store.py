@@ -159,3 +159,4 @@
 2026-02-27 migration
 2026-03-07 typo
 2026-03-07 wip
+2026-03-08 move config to env
