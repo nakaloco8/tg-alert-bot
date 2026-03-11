@@ -172,3 +172,4 @@
 2026-02-22 add cli flag
 2026-03-01 metrics
 2026-03-11 revert
+2026-03-11 typeshed
