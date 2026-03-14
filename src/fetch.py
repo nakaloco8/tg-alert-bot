@@ -161,3 +161,4 @@
 2026-03-07 add cli flag
 2026-03-07 wire up queue
 2026-03-08 dockerfile
+2026-03-14 cleanup dead code
