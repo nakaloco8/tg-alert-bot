@@ -181,3 +181,4 @@
 2026-03-06 dockerfile
 2026-03-08 dockerfile
 2026-03-14 hotfix
+2026-03-17 cache the lookups
