@@ -165,3 +165,4 @@
 2026-03-08 pagination fix
 2026-03-13 log the raw payload
 2026-03-13 move config to env
+2026-03-20 split the fetcher out
