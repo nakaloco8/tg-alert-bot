@@ -186,3 +186,4 @@
 2026-03-07 backoff on failure
 2026-03-14 guard against None
 2026-03-22 reduce noise
+2026-03-22 add tests
