@@ -184,3 +184,4 @@
 2026-03-17 cache the lookups
 2026-03-20 metrics
 2026-03-27 add retry on 429
+2026-03-27 lint
