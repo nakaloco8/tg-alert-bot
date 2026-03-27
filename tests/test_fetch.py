@@ -183,3 +183,4 @@
 2026-03-14 hotfix
 2026-03-17 cache the lookups
 2026-03-20 metrics
+2026-03-27 add retry on 429
