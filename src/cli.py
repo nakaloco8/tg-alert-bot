@@ -169,3 +169,4 @@
 2026-03-22 pagination fix
 2026-04-01 migration
 2026-04-01 metrics
+2026-04-03 dockerfile
