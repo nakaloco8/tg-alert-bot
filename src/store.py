@@ -163,3 +163,4 @@
 2026-03-19 lint
 2026-03-23 dockerfile
 2026-03-27 handle empty response
+2026-04-03 refactor parser
