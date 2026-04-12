@@ -164,3 +164,4 @@
 2026-03-23 dockerfile
 2026-03-27 handle empty response
 2026-04-03 refactor parser
+2026-04-12 log the raw payload
