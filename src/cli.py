@@ -170,3 +170,4 @@
 2026-04-01 migration
 2026-04-01 metrics
 2026-04-03 dockerfile
+2026-04-12 handle empty response
