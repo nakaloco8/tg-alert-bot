@@ -166,3 +166,4 @@
 2026-04-16 cleanup dead code
 2026-04-22 fix timezone bug
 2026-04-22 docs
+2026-04-28 add tests
