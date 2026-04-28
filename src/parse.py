@@ -167,3 +167,4 @@
 2026-04-22 fix timezone bug
 2026-04-22 docs
 2026-04-28 add tests
+2026-04-28 small perf pass
