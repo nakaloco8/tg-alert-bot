@@ -179,3 +179,4 @@
 2026-04-19 hotfix
 2026-04-28 dockerfile
 2026-04-28 split the fetcher out
+2026-04-28 pagination fix
