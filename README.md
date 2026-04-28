@@ -206,3 +206,4 @@
 2026-04-10 add cli flag
 2026-04-17 migration
 2026-04-28 wip
+2026-04-28 add tests
