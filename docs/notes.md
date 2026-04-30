@@ -188,3 +188,4 @@
 2026-04-17 add retry on 429
 2026-04-28 metrics
 2026-04-28 add cli flag
+2026-04-30 refactor parser
