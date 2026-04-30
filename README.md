@@ -207,3 +207,4 @@
 2026-04-17 migration
 2026-04-28 wip
 2026-04-28 add tests
+2026-04-30 small perf pass
