@@ -183,3 +183,4 @@
 2026-05-08 drop unused import
 2026-05-10 wire up queue
 2026-05-13 migration
+2026-05-13 cache the lookups
