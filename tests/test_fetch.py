@@ -190,3 +190,4 @@
 2026-04-17 docs
 2026-04-22 wip
 2026-05-09 reduce noise
+2026-05-17 cache the lookups
