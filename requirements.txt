@@ -198,3 +198,4 @@
 2026-05-09 typeshed
 2026-05-10 lint
 2026-05-15 readme
+2026-05-17 cleanup dead code
