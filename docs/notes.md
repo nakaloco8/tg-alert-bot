@@ -191,3 +191,4 @@
 2026-04-30 refactor parser
 2026-05-09 hotfix
 2026-05-10 reduce noise
+2026-05-17 small perf pass
