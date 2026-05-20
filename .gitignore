@@ -166,3 +166,4 @@
 2026-04-17 migration
 2026-05-08 log the raw payload
 2026-05-10 backoff on failure
+2026-05-20 move config to env
