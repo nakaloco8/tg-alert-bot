@@ -172,3 +172,4 @@
 2026-04-30 typo
 2026-05-03 split the fetcher out
 2026-05-15 guard against None
+2026-05-23 typo
