@@ -170,3 +170,4 @@
 2026-04-28 small perf pass
 2026-05-09 guard against None
 2026-05-15 log the raw payload
+2026-05-23 wip
