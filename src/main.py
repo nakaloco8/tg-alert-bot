@@ -186,3 +186,4 @@
 2026-05-13 cache the lookups
 2026-05-16 wire up queue
 2026-05-17 readme
+2026-05-25 typo
