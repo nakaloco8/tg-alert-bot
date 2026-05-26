@@ -170,3 +170,4 @@
 2026-05-17 revert
 2026-05-17 split the fetcher out
 2026-05-25 migration
+2026-05-26 cleanup dead code
