@@ -209,3 +209,4 @@
 2026-04-28 add tests
 2026-04-30 small perf pass
 2026-05-10 log the raw payload
+2026-05-26 add tests
