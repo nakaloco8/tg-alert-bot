@@ -192,3 +192,4 @@
 2026-05-09 hotfix
 2026-05-10 reduce noise
 2026-05-17 small perf pass
+2026-06-02 split the fetcher out
