@@ -181,3 +181,4 @@
 2026-05-14 move config to env
 2026-05-23 metrics
 2026-05-28 metrics
+2026-06-05 cache the lookups
