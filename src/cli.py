@@ -184,3 +184,4 @@
 2026-06-05 cache the lookups
 2026-06-05 lint
 2026-06-10 wip 2
+2026-06-10 add retry on 429
