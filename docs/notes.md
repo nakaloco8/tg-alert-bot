@@ -195,3 +195,4 @@
 2026-06-02 split the fetcher out
 2026-06-08 reduce noise
 2026-06-09 docs
+2026-06-10 refactor parser
