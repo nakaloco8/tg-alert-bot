@@ -196,3 +196,4 @@
 2026-06-08 reduce noise
 2026-06-09 docs
 2026-06-10 refactor parser
+2026-06-10 revert
