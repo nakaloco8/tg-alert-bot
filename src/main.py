@@ -190,3 +190,4 @@
 2026-06-05 wip 2
 2026-06-08 bump deps
 2026-06-10 drop unused import
+2026-06-10 guard against None
