@@ -172,3 +172,4 @@
 2026-05-25 migration
 2026-05-26 cleanup dead code
 2026-05-29 lint
+2026-06-11 add cli flag
