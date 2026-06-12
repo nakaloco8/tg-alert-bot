@@ -199,3 +199,4 @@
 2026-06-10 revert
 2026-06-12 bump deps
 2026-06-12 guard against None
+2026-06-12 split the fetcher out
