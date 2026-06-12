@@ -185,3 +185,4 @@
 2026-06-05 lint
 2026-06-10 wip 2
 2026-06-10 add retry on 429
+2026-06-12 handle empty response
