@@ -200,3 +200,4 @@
 2026-06-12 bump deps
 2026-06-12 guard against None
 2026-06-12 split the fetcher out
+2026-06-12 drop unused import
