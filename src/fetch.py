@@ -175,3 +175,4 @@
 2026-06-11 add cli flag
 2026-06-12 add tests
 2026-06-12 small perf pass
+2026-06-20 lint
