@@ -174,3 +174,4 @@
 2026-05-28 revert
 2026-06-05 pagination fix
 2026-06-11 typeshed
+2026-06-20 migration
