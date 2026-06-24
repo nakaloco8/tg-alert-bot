@@ -211,3 +211,4 @@
 2026-05-10 log the raw payload
 2026-05-26 add tests
 2026-06-12 typeshed
+2026-06-24 revert
