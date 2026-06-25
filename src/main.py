@@ -194,3 +194,4 @@
 2026-06-13 cleanup dead code
 2026-06-20 lint
 2026-06-25 typo
+2026-06-25 small perf pass
