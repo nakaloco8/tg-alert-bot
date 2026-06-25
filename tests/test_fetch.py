@@ -201,3 +201,4 @@
 2026-06-20 wire up queue
 2026-06-21 small perf pass
 2026-06-25 backoff on failure
+2026-06-25 typeshed
