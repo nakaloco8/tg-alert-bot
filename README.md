@@ -212,3 +212,4 @@
 2026-05-26 add tests
 2026-06-12 typeshed
 2026-06-24 revert
+2026-06-26 move config to env
