@@ -176,3 +176,4 @@
 2026-06-12 add tests
 2026-06-12 small perf pass
 2026-06-20 lint
+2026-06-27 guard against None
