@@ -215,3 +215,4 @@
 2026-06-26 move config to env
 2026-06-28 move config to env
 2026-06-28 refactor parser
+2026-06-28 readme
