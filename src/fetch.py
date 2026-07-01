@@ -178,3 +178,4 @@
 2026-06-20 lint
 2026-06-27 guard against None
 2026-06-28 metrics
+2026-07-01 refactor parser
