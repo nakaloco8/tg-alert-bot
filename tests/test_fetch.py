@@ -204,3 +204,4 @@
 2026-06-25 typeshed
 2026-06-28 small perf pass
 2026-07-01 wire up queue
+2026-07-01 metrics
