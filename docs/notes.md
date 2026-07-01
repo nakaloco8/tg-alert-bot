@@ -202,3 +202,4 @@
 2026-06-12 split the fetcher out
 2026-06-12 drop unused import
 2026-07-01 reduce noise
+2026-07-01 docs
