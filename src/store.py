@@ -182,3 +182,4 @@
 2026-06-12 log the raw payload
 2026-06-16 add retry on 429
 2026-07-01 add tests
+2026-07-01 readme
