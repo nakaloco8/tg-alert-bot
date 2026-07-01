@@ -174,3 +174,4 @@
 2026-06-28 dockerfile
 2026-06-28 cache the lookups
 2026-07-01 dockerfile
+2026-07-01 backoff on failure
