@@ -197,3 +197,4 @@
 2026-06-25 small perf pass
 2026-06-28 small perf pass
 2026-06-28 readme
+2026-07-01 docs
