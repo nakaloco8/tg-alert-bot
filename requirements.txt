@@ -203,3 +203,4 @@
 2026-06-11 typeshed
 2026-06-24 guard against None
 2026-06-28 metrics
+2026-07-01 log the raw payload
