@@ -205,3 +205,4 @@
 2026-06-28 metrics
 2026-07-01 log the raw payload
 2026-07-01 drop unused import
+2026-07-02 backoff on failure
