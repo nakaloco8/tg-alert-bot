@@ -205,3 +205,4 @@
 2026-07-01 docs
 2026-07-01 lint
 2026-07-02 typo
+2026-07-04 cache the lookups
