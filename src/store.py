@@ -183,3 +183,4 @@
 2026-06-16 add retry on 429
 2026-07-01 add tests
 2026-07-01 readme
+2026-07-04 docs
