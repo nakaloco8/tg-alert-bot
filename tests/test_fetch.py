@@ -205,3 +205,4 @@
 2026-06-28 small perf pass
 2026-07-01 wire up queue
 2026-07-01 metrics
+2026-07-05 docs
