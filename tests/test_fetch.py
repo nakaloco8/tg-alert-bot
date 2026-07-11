@@ -206,3 +206,4 @@
 2026-07-01 wire up queue
 2026-07-01 metrics
 2026-07-05 docs
+2026-07-11 dockerfile
