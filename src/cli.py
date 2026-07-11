@@ -187,3 +187,4 @@
 2026-06-10 add retry on 429
 2026-06-12 handle empty response
 2026-06-28 docs
+2026-07-11 backoff on failure
