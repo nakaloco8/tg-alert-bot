@@ -198,3 +198,4 @@
 2026-06-28 small perf pass
 2026-06-28 readme
 2026-07-01 docs
+2026-07-12 add tests
