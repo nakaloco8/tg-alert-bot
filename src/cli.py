@@ -189,3 +189,4 @@
 2026-06-28 docs
 2026-07-11 backoff on failure
 2026-07-12 reduce noise
+2026-07-16 pagination fix
