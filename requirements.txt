@@ -207,3 +207,4 @@
 2026-07-01 drop unused import
 2026-07-02 backoff on failure
 2026-07-13 typo
+2026-07-16 split the fetcher out
