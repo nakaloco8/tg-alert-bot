@@ -222,3 +222,4 @@
 2026-07-03 dockerfile
 2026-07-16 add tests
 2026-07-16 add retry on 429
+2026-07-17 typo
