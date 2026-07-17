@@ -181,3 +181,4 @@
 2026-07-01 refactor parser
 2026-07-04 add retry on 429
 2026-07-16 add retry on 429
+2026-07-17 bump deps
