@@ -176,3 +176,4 @@
 2026-06-11 typeshed
 2026-06-20 migration
 2026-06-25 guard against None
+2026-07-17 backoff on failure
