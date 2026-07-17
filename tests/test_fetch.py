@@ -210,3 +210,4 @@
 2026-07-12 wip 2
 2026-07-17 refactor parser
 2026-07-17 refactor parser
+2026-07-17 add cli flag
