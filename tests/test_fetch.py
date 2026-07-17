@@ -208,3 +208,4 @@
 2026-07-05 docs
 2026-07-11 dockerfile
 2026-07-12 wip 2
+2026-07-17 refactor parser
