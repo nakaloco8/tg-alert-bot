@@ -186,3 +186,4 @@
 2026-07-04 docs
 2026-07-12 hotfix
 2026-07-17 typeshed
+2026-07-25 bump deps
