@@ -178,3 +178,4 @@
 2026-06-25 guard against None
 2026-07-17 backoff on failure
 2026-07-25 bump deps
+2026-07-25 guard against None
