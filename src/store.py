@@ -187,3 +187,4 @@
 2026-07-12 hotfix
 2026-07-17 typeshed
 2026-07-25 bump deps
+2026-07-26 metrics
