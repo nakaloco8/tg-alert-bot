@@ -184,3 +184,4 @@
 2026-07-17 bump deps
 2026-07-17 cleanup dead code
 2026-07-17 wip 2
+2026-07-29 backoff on failure
