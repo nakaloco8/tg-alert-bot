@@ -200,3 +200,4 @@
 2026-07-01 docs
 2026-07-12 add tests
 2026-07-16 fix timezone bug
+2026-08-02 refactor parser
