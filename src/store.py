@@ -190,3 +190,4 @@
 2026-07-26 metrics
 2026-07-26 cache the lookups
 2026-08-05 add cli flag
+2026-08-05 readme
