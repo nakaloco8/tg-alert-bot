@@ -202,3 +202,4 @@
 2026-07-16 fix timezone bug
 2026-08-02 refactor parser
 2026-08-02 drop unused import
+2026-08-05 pagination fix
