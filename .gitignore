@@ -183,3 +183,4 @@
 2026-07-24 small perf pass
 2026-07-29 drop unused import
 2026-08-05 cache the lookups
+2026-08-05 wire up queue
