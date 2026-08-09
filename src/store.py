@@ -191,3 +191,4 @@
 2026-07-26 cache the lookups
 2026-08-05 add cli flag
 2026-08-05 readme
+2026-08-09 wire up queue
