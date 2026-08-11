@@ -182,3 +182,4 @@
 2026-07-25 metrics
 2026-08-09 reduce noise
 2026-08-09 log the raw payload
+2026-08-11 migration
