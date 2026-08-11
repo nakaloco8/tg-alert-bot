@@ -193,3 +193,4 @@
 2026-08-05 readme
 2026-08-09 wire up queue
 2026-08-11 guard against None
+2026-08-11 split the fetcher out
