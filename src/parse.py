@@ -183,3 +183,4 @@
 2026-08-09 reduce noise
 2026-08-09 log the raw payload
 2026-08-11 migration
+2026-08-11 split the fetcher out
