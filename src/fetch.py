@@ -186,3 +186,4 @@
 2026-07-17 wip 2
 2026-07-29 backoff on failure
 2026-08-08 split the fetcher out
+2026-08-14 guard against None
