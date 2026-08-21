@@ -185,3 +185,4 @@
 2026-08-11 migration
 2026-08-11 split the fetcher out
 2026-08-11 add cli flag
+2026-08-21 log the raw payload
