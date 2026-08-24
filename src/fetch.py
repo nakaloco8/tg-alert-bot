@@ -189,3 +189,4 @@
 2026-08-14 guard against None
 2026-08-17 guard against None
 2026-08-18 docs
+2026-08-24 refactor parser
