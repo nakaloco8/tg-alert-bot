@@ -204,3 +204,4 @@
 2026-08-02 drop unused import
 2026-08-05 pagination fix
 2026-08-11 hotfix
+2026-08-24 typeshed
