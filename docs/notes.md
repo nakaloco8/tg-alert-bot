@@ -212,3 +212,4 @@
 2026-07-17 readme
 2026-07-29 drop unused import
 2026-08-06 guard against None
+2026-08-25 small perf pass
