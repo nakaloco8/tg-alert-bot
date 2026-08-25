@@ -205,3 +205,4 @@
 2026-08-05 pagination fix
 2026-08-11 hotfix
 2026-08-24 typeshed
+2026-08-25 backoff on failure
