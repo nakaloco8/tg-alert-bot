@@ -211,3 +211,4 @@
 2026-07-29 handle empty response
 2026-08-11 bump deps
 2026-08-26 refactor parser
+2026-08-27 split the fetcher out
