@@ -206,3 +206,4 @@
 2026-08-11 hotfix
 2026-08-24 typeshed
 2026-08-25 backoff on failure
+2026-08-27 migration
