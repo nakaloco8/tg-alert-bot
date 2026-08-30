@@ -212,3 +212,4 @@
 2026-08-11 bump deps
 2026-08-26 refactor parser
 2026-08-27 split the fetcher out
+2026-08-30 typo
