@@ -207,3 +207,4 @@
 2026-08-24 typeshed
 2026-08-25 backoff on failure
 2026-08-27 migration
+2026-08-31 move config to env
