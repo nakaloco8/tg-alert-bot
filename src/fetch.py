@@ -193,3 +193,4 @@
 2026-08-25 add cli flag
 2026-08-27 typo
 2026-08-29 readme
+2026-08-31 hotfix
