@@ -196,3 +196,4 @@
 2026-08-11 split the fetcher out
 2026-08-17 refactor parser
 2026-08-21 guard against None
+2026-09-03 wip 2
