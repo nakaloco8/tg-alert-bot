@@ -189,3 +189,4 @@
 2026-08-25 add cli flag
 2026-08-29 drop unused import
 2026-08-31 backoff on failure
+2026-09-04 move config to env
