@@ -223,3 +223,4 @@
 2026-08-29 log the raw payload
 2026-08-31 refactor parser
 2026-09-02 lint
+2026-09-04 bump deps
