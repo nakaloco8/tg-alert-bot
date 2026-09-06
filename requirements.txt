@@ -217,3 +217,4 @@
 2026-09-02 docs
 2026-09-05 guard against None
 2026-09-06 readme
+2026-09-06 metrics
