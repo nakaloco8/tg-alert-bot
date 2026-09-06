@@ -214,3 +214,4 @@
 2026-08-06 guard against None
 2026-08-25 small perf pass
 2026-08-25 lint
+2026-09-06 metrics
