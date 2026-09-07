@@ -224,3 +224,4 @@
 2026-08-31 refactor parser
 2026-09-02 lint
 2026-09-04 bump deps
+2026-09-07 typeshed
