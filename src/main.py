@@ -210,3 +210,4 @@
 2026-08-31 move config to env
 2026-09-02 add cli flag
 2026-09-10 hotfix
+2026-09-11 lint
