@@ -198,3 +198,4 @@
 2026-09-06 lint
 2026-09-07 typeshed
 2026-09-12 add cli flag
+2026-09-12 small perf pass
