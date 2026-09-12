@@ -226,3 +226,4 @@
 2026-09-04 bump deps
 2026-09-07 typeshed
 2026-09-08 cache the lookups
+2026-09-12 pagination fix
