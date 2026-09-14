@@ -198,3 +198,4 @@
 2026-08-21 guard against None
 2026-09-03 wip 2
 2026-09-12 reduce noise
+2026-09-14 docs
