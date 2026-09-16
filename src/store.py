@@ -199,3 +199,4 @@
 2026-09-03 wip 2
 2026-09-12 reduce noise
 2026-09-14 docs
+2026-09-16 cleanup dead code
