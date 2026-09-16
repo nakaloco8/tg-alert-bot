@@ -188,3 +188,4 @@
 2026-08-21 log the raw payload
 2026-09-12 backoff on failure
 2026-09-13 wip
+2026-09-16 handle empty response
