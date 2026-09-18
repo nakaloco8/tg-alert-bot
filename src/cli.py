@@ -204,3 +204,4 @@
 2026-09-14 typeshed
 2026-09-16 refactor parser
 2026-09-16 bump deps
+2026-09-18 add retry on 429
