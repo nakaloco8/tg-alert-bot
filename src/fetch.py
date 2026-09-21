@@ -202,3 +202,4 @@
 2026-09-14 refactor parser
 2026-09-16 hotfix
 2026-09-19 hotfix
+2026-09-21 move config to env
