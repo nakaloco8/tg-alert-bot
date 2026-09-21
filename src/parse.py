@@ -192,3 +192,4 @@
 2026-09-16 split the fetcher out
 2026-09-19 typo
 2026-09-19 drop unused import
+2026-09-21 small perf pass
