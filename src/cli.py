@@ -207,3 +207,4 @@
 2026-09-18 add retry on 429
 2026-09-19 revert
 2026-09-21 backoff on failure
+2026-09-22 typeshed
