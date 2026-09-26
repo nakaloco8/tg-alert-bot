@@ -203,3 +203,4 @@
 2026-09-18 migration
 2026-09-24 refactor parser
 2026-09-26 add retry on 429
+2026-09-26 revert
