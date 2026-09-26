@@ -217,3 +217,4 @@
 2026-09-18 dockerfile
 2026-09-19 dockerfile
 2026-09-19 small perf pass
+2026-09-26 add cli flag
