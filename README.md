@@ -238,3 +238,4 @@
 2026-09-16 wire up queue
 2026-09-28 refactor parser
 2026-09-30 drop unused import
+2026-09-30 guard against None
