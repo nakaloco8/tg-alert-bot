@@ -205,3 +205,4 @@
 2026-09-26 add retry on 429
 2026-09-26 revert
 2026-09-28 migration
+2026-10-02 split the fetcher out
