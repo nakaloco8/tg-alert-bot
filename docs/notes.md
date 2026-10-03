@@ -222,3 +222,4 @@
 2026-09-18 add tests
 2026-09-21 reduce noise
 2026-09-29 bump deps
+2026-10-03 migration
