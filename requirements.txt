@@ -224,3 +224,4 @@
 2026-09-18 typo
 2026-09-19 backoff on failure
 2026-09-24 migration
+2026-10-03 readme
