@@ -224,3 +224,4 @@
 2026-09-29 bump deps
 2026-10-03 migration
 2026-10-03 wip 2
+2026-10-04 cleanup dead code
