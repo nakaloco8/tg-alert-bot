@@ -221,3 +221,4 @@
 2026-09-26 small perf pass
 2026-09-28 wip
 2026-10-05 handle empty response
+2026-10-05 backoff on failure
