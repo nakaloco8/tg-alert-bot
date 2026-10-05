@@ -225,3 +225,4 @@
 2026-09-19 backoff on failure
 2026-09-24 migration
 2026-10-03 readme
+2026-10-05 cleanup dead code
