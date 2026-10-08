@@ -240,3 +240,4 @@
 2026-09-30 drop unused import
 2026-09-30 guard against None
 2026-10-08 dockerfile
+2026-10-08 wire up queue
