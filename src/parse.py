@@ -199,3 +199,4 @@
 2026-10-04 refactor parser
 2026-10-04 wip 2
 2026-10-05 wip 2
+2026-10-08 readme
