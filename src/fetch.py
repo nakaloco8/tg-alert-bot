@@ -205,3 +205,4 @@
 2026-09-21 move config to env
 2026-10-03 cache the lookups
 2026-10-05 drop unused import
+2026-10-08 small perf pass
