@@ -201,3 +201,4 @@
 2026-10-05 wip 2
 2026-10-08 readme
 2026-10-08 add retry on 429
+2026-10-09 add cli flag
