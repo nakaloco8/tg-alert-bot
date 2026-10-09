@@ -208,3 +208,4 @@
 2026-10-02 split the fetcher out
 2026-10-08 bump deps
 2026-10-08 fix timezone bug
+2026-10-09 guard against None
