@@ -213,3 +213,4 @@
 2026-10-06 add tests
 2026-10-08 readme
 2026-10-08 pagination fix
+2026-10-09 guard against None
