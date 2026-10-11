@@ -214,3 +214,4 @@
 2026-10-08 readme
 2026-10-08 pagination fix
 2026-10-09 guard against None
+2026-10-11 split the fetcher out
