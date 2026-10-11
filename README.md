@@ -244,3 +244,4 @@
 2026-10-09 cleanup dead code
 2026-10-09 wire up queue
 2026-10-09 small perf pass
+2026-10-11 wire up queue
