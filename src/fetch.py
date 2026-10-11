@@ -208,3 +208,4 @@
 2026-10-08 small perf pass
 2026-10-09 move config to env
 2026-10-09 wip
+2026-10-11 bump deps
