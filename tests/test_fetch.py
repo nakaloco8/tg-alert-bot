@@ -236,3 +236,4 @@
 2026-10-02 lint
 2026-10-07 log the raw payload
 2026-10-11 migration
+2026-10-14 cleanup dead code
