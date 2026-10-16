@@ -229,3 +229,4 @@
 2026-10-05 log the raw payload
 2026-10-08 cache the lookups
 2026-10-16 handle empty response
+2026-10-16 backoff on failure
