@@ -203,3 +203,4 @@
 2026-10-08 add retry on 429
 2026-10-09 add cli flag
 2026-10-13 add tests
+2026-10-16 typeshed
