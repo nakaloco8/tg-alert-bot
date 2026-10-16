@@ -230,3 +230,4 @@
 2026-10-07 reduce noise
 2026-10-08 pagination fix
 2026-10-09 pagination fix
+2026-10-16 dockerfile
