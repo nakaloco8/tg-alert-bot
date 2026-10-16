@@ -210,3 +210,4 @@
 2026-10-08 fix timezone bug
 2026-10-09 guard against None
 2026-10-15 guard against None
+2026-10-16 backoff on failure
