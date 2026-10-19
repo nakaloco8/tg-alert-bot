@@ -216,3 +216,4 @@
 2026-10-09 guard against None
 2026-10-11 split the fetcher out
 2026-10-16 split the fetcher out
+2026-10-19 wire up queue
