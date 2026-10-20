@@ -233,3 +233,4 @@
 2026-10-16 dockerfile
 2026-10-17 backoff on failure
 2026-10-17 bump deps
+2026-10-20 guard against None
