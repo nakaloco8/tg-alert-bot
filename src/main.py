@@ -234,3 +234,4 @@
 2026-10-17 backoff on failure
 2026-10-17 bump deps
 2026-10-20 guard against None
+2026-10-22 cache the lookups
