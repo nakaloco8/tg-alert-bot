@@ -217,3 +217,4 @@
 2026-10-11 split the fetcher out
 2026-10-16 split the fetcher out
 2026-10-19 wire up queue
+2026-10-23 move config to env
