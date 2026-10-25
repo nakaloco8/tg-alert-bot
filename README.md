@@ -248,3 +248,4 @@
 2026-10-23 cleanup dead code
 2026-10-24 split the fetcher out
 2026-10-25 typo
+2026-10-25 readme
