@@ -240,3 +240,4 @@
 2026-10-15 backoff on failure
 2026-10-17 log the raw payload
 2026-10-23 wire up queue
+2026-10-25 docs
