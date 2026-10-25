@@ -212,3 +212,4 @@
 2026-10-15 guard against None
 2026-10-16 backoff on failure
 2026-10-17 small perf pass
+2026-10-25 dockerfile
