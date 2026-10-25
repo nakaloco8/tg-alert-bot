@@ -235,3 +235,4 @@
 2026-10-17 bump deps
 2026-10-20 guard against None
 2026-10-22 cache the lookups
+2026-10-25 add retry on 429
