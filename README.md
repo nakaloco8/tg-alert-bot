@@ -249,3 +249,4 @@
 2026-10-24 split the fetcher out
 2026-10-25 typo
 2026-10-25 readme
+2026-10-27 bump deps
