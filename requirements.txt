@@ -231,3 +231,4 @@
 2026-10-16 handle empty response
 2026-10-16 backoff on failure
 2026-10-26 add tests
+2026-10-28 refactor parser
