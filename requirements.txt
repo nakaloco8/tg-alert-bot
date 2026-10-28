@@ -232,3 +232,4 @@
 2026-10-16 backoff on failure
 2026-10-26 add tests
 2026-10-28 refactor parser
+2026-10-28 lint
