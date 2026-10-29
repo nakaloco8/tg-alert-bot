@@ -210,3 +210,4 @@
 2026-10-09 wip
 2026-10-11 bump deps
 2026-10-15 pagination fix
+2026-10-29 guard against None
