@@ -250,3 +250,4 @@
 2026-10-25 typo
 2026-10-25 readme
 2026-10-27 bump deps
+2026-10-29 cleanup dead code
