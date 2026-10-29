@@ -236,3 +236,4 @@
 2026-10-20 guard against None
 2026-10-22 cache the lookups
 2026-10-25 add retry on 429
+2026-10-29 small perf pass
