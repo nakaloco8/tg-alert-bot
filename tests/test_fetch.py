@@ -243,3 +243,4 @@
 2026-10-25 docs
 2026-10-28 docs
 2026-10-29 drop unused import
+2026-10-30 move config to env
