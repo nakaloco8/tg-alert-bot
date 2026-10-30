@@ -214,3 +214,4 @@
 2026-10-17 small perf pass
 2026-10-25 dockerfile
 2026-10-28 revert
+2026-10-30 add retry on 429
