@@ -252,3 +252,4 @@
 2026-10-27 bump deps
 2026-10-29 cleanup dead code
 2026-10-29 pagination fix
+2026-10-30 migration
