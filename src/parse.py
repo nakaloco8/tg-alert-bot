@@ -205,3 +205,4 @@
 2026-10-13 add tests
 2026-10-16 typeshed
 2026-10-17 add retry on 429
+2026-10-30 handle empty response
