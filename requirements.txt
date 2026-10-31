@@ -234,3 +234,4 @@
 2026-10-28 refactor parser
 2026-10-28 lint
 2026-10-29 lint
+2026-10-31 readme
