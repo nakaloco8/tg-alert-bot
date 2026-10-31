@@ -237,3 +237,4 @@
 2026-10-22 cache the lookups
 2026-10-25 add retry on 429
 2026-10-29 small perf pass
+2026-10-31 bump deps
