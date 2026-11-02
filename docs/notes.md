@@ -230,3 +230,4 @@
 2026-10-17 bump deps
 2026-10-17 wip 2
 2026-10-19 drop unused import
+2026-11-02 wire up queue
